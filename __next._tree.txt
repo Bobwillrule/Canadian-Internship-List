@@ -1,0 +1,3 @@
+:HL["/Canadian-Internship-List/_next/static/chunks/27qco0t-0e8pf.css","style"]
+:HL["/Canadian-Internship-List/_next/static/chunks/3_2_j3prdk7eh.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"8n70Ia5TH0S3o5Hxn9rmm"}
