@@ -74,27 +74,27 @@ Last updated: Sep 19, 2026.
 | Microsoft | Sales Operations: Winter Co-Op Internship Opportunities | Canada, Ontario, Toronto | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556986777?hl=en) | Sep 3, 2026 |
 | Atlassian | Software Engineer Intern | Burnaby, BC, Canada; Vancouver, BC, Canada; Richmond, BC, Canada | [Apply](https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job?utm_source=Simplify&ref=Simplify) | Sep 3, 2026 |
 | AMD | ASIC Verification Engineer Intern/Co-op | Ottawa, ON, Canada | [Apply](https://careers.amd.com/jobs/91207?icims=1&utm_source=Simplify&ref=Simplify) | Sep 3, 2026 |
-| ↳ | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90305?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Software Engineer Intern/Co-op | Calgary, AB, Canada | [Apply](https://careers.amd.com/jobs/91366?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | AGS Libraries Intern/Co-op | Calgary, AB, Canada | [Apply](https://careers.amd.com/jobs/90427?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Software Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/91367?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91359?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Software Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91368?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Product Management Intern/Co-op - Multiple Teams | Calgary, AB, Canada | [Apply](https://careers.amd.com/jobs/90411?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91363?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90383?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Hardware Design Verification Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90379?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Firmware Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91320?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Analog and Mixed Signal Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91369?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Firmware Engineer Intern/Co-op - Long Term | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90297?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Hardware Design Engineer Intern/Co-op - Long Term | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90367?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Firmware Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/91313?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Hardware Design Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91360?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Firmware Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/90301?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Hardware Design Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/90372?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Diagnostics Design Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90435?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
-| ↳ | Hardware Design Verification Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/91362?icims=1&utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
+| ↳ | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90305?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Software Engineer Intern/Co-op | Calgary, AB, Canada | [Apply](https://careers.amd.com/jobs/91366?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | AGS Libraries Intern/Co-op | Calgary, AB, Canada | [Apply](https://careers.amd.com/jobs/90427?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Software Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/91367?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91359?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Software Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91368?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Product Management Intern/Co-op - Multiple Teams | Calgary, AB, Canada | [Apply](https://careers.amd.com/jobs/90411?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91363?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90383?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
 | Trane Technologies | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-7608?utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| AMD | Hardware Design Verification Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90379?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Firmware Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91320?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Analog and Mixed Signal Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91369?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Firmware Engineer Intern/Co-op - Long Term | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90297?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Hardware Design Engineer Intern/Co-op - Long Term | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90367?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Firmware Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/91313?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Hardware Design Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91360?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Firmware Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/90301?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Hardware Design Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/90372?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Diagnostics Design Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90435?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
+| ↳ | Hardware Design Verification Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/91362?icims=1&utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
 | Manulife Financial | Software Engineering Intern | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684?utm_source=Simplify&ref=Simplify) | Aug 31, 2026 |
 | ↳ | Reporting Analyst Intern | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Reporting-Analyst_JR26080667?utm_source=Simplify&ref=Simplify) | Aug 31, 2026 |
 | ↳ | Reporting Analyst Co-op | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Winter-Co-op---Reporting-Analyst_JR26080665?utm_source=Simplify&ref=Simplify) | Aug 31, 2026 |
