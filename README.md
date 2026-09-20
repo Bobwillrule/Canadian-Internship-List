@@ -12,15 +12,16 @@ Last updated: Sep 20, 2026.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
-| Amazon | 🔥 Software Development Engineer Intern - Summer 2027 | Vancouver, BC, Canada | [Apply](https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can?utm_source=Simplify&ref=Simplify) | Sep 19, 2026 |
 | The Brattle Group | Energy Analyst Intern - Economics - Multiple Teams | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005?utm_source=Simplify&ref=Simplify) | Sep 19, 2026 |
 | Qualcomm | IP Applications Engineering Intern - Interim Engineering Intern - HW | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156615?utm_source=Simplify&ref=Simplify) | Sep 19, 2026 |
 | ↳ | Electrical and Optical Systems Intern - Silicon Validation Engineer - Interim Engineering Intern - Hardware | Ottawa, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156176?utm_source=Simplify&ref=Simplify) | Sep 19, 2026 |
 | ↳ | MSIP Digital Design Verification Engineering Intern - HW | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156800?utm_source=Simplify&ref=Simplify) | Sep 19, 2026 |
-| TRC Companies | Software Engineer Intern | Calgary, AB, Canada | [Apply](https://careers.trccompanies.com/jobs/26840?icims=1&utm_source=Simplify&ref=Simplify) | Sep 18, 2026 |
-| Qualcomm | Low Power AI Software Development Intern - Interim Engineering Intern - Software | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143440?utm_source=Simplify&ref=Simplify) | Sep 18, 2026 |
-| ↳ | Silicon Validation Intern | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143274?utm_source=Simplify&ref=Simplify) | Sep 18, 2026 |
 | NVIDIA | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Canada, Toronto | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) | Sep 18, 2026 |
+| Amazon | 🔥 Software Development Engineer Intern | Vancouver, BC | [Apply](https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) | Sep 18, 2026 |
+| Qualcomm | Low Power AI Software Development Internship | Markham, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143440) | Sep 18, 2026 |
+| ↳ | Silicon Validation Intern | Toronto, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143274) | Sep 18, 2026 |
+| TRC Companies | Software Engineer Intern | Calgary, AB | [Apply](https://careers.trccompanies.com/jobs/26840?icims=1) | Sep 18, 2026 |
+| Rockwell Automation | Robotics Research Co-op, Data Engineering | Waterloo, ON | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871) | Sep 18, 2026 |
 | Sun Life | Martech Software Engineer | Waterloo, ON | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--MarTech-Software-Engineer--Winter-2027-_JR00128038) | Sep 18, 2026 |
 | Tower Research Capital | 🔥 Software Developer Intern | Montreal, QC | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8212179) | Sep 17, 2026 |
 | Qualcomm | MSIP Design Methodology Engineering Internship | Toronto, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721140936) | Sep 17, 2026 |
