@@ -12,11 +12,17 @@ Last updated: Sep 22, 2026.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Microsoft | Critical Environment Ops INTERN | Canada, Ontario, Toronto | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556998658?hl=en) | Sep 21, 2026 |
 | NVIDIA | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Canada, Toronto | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) | Sep 21, 2026 |
-| The Brattle Group | Energy Analyst Intern - Economics - Multiple Teams | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005?utm_source=Simplify&ref=Simplify) | Sep 19, 2026 |
-| Qualcomm | IP Applications Engineering Intern - Interim Engineering Intern - HW | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156615?utm_source=Simplify&ref=Simplify) | Sep 19, 2026 |
-| ↳ | Electrical and Optical Systems Intern - Silicon Validation Engineer - Interim Engineering Intern - Hardware | Ottawa, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156176?utm_source=Simplify&ref=Simplify) | Sep 19, 2026 |
-| ↳ | MSIP Digital Design Verification Engineering Intern - HW | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156800?utm_source=Simplify&ref=Simplify) | Sep 19, 2026 |
+| Mercury | Software Engineering Intern | Remote, Canada | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004) | Sep 21, 2026 |
+| Achievers | Software Engineer Co-op | Toronto, ON | [Apply](https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181/) | Sep 19, 2026 |
+| Autodesk | Product Management Intern | Montreal, QC | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1) | Sep 19, 2026 |
+| The Brattle Group | Energy Analyst Intern (Economics) | Toronto, ON | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) | Sep 18, 2026 |
+| Qualcomm | IP Applications Engineering Intern | Toronto, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156615) | Sep 18, 2026 |
+| ↳ | MSIP Digital Design Verification Engineering Intern | Toronto, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156800) | Sep 18, 2026 |
+| ↳ | Silicon Validation Engineer, Electrical and Optical Systems Internship | Ottawa, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156176) | Sep 18, 2026 |
+| FluidAI Medical | Data and AI Engineering Associate | Kitchener, ON | [Apply](https://ats.rippling.com/fluidai-medical-careers/jobs/e52b9e0d-0c04-42be-8da6-288203e18e52) | Sep 18, 2026 |
+| BGIS | Asset Management Analyst Intern | Markham, ON | [Apply](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/233080) | Sep 18, 2026 |
 | Amazon | 🔥 Software Development Engineer Intern | Vancouver, BC | [Apply](https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) | Sep 18, 2026 |
 | Qualcomm | Low Power AI Software Development Internship | Markham, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143440) | Sep 18, 2026 |
 | ↳ | Silicon Validation Intern | Toronto, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143274) | Sep 18, 2026 |
@@ -215,13 +221,13 @@ Last updated: Sep 22, 2026.
 | ↳ | Development of Performance Indicators and Process and Project Management | Longueuil, QC | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-d-indicateurs-de-performance-et-gestion-des-processus-et-projets---Internship---Winter-2027--Development-of-Performance-Indicators-and-Process-and-Project-Management_01867284) | Sep 3, 2026 |
 | Canadian Tire | Business Operations Analyst Student | Welland, ON | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Welland-ON/Business-Operations-Analyst-Student--4-months----Winter-2027_JR164928) | Sep 3, 2026 |
 | Teledyne | LiDAR Data Analyst Co-op | Concord, ON | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Concord-ON-TDY/LiDAR-Data-Analyst--Co-op-_REQ36378) | Sep 3, 2026 |
-| Trane Technologies | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-7608?utm_source=Simplify&ref=Simplify) | Sep 2, 2026 |
 | General Dynamics UK | Software Developer Co-op | Calgary, AB | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146985399) | Sep 2, 2026 |
 | Geotab | Product Coordinator Intern, Driver Compliance | Toronto, ON / Waterloo, ON / Oakville, ON | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008) | Sep 2, 2026 |
 | ↳ | Product Management Intern, Installation Experience | Oakville, ON | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008) | Sep 2, 2026 |
 | Remarcable | Full Stack Developer Co-op | Vancouver, BC | [Apply](https://jobs.ashbyhq.com/remarcable-inc/a4f3aaaa-9469-42e8-a610-450d25eb5da7/) | Sep 2, 2026 |
 | RTX | Data Analyst Intern, Global Sales | Longueuil, QC | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713) | Sep 2, 2026 |
 | CAE | Software Engineering Intern, AI, Automation and Business Intelligence | Montreal, QC | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1) | Sep 2, 2026 |
+| Trane Technologies | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-7608?utm_source=Simplify&ref=Simplify) | Sep 1, 2026 |
 | General Dynamics UK | Software Engineering Co-op | Ottawa, ON | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146822449) | Sep 1, 2026 |
 | Grass Valley | Software Development Intern | Montreal, QC | [Apply](https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development) | Sep 1, 2026 |
 | Riverside Natural Foods | Junior Data Analyst Intern/Co-op | Toronto, ON | [Apply](https://job-boards.greenhouse.io/riversidenaturalfoodsltd/jobs/5409377008) | Sep 1, 2026 |
@@ -275,8 +281,7 @@ Last updated: Sep 22, 2026.
 | Marsh | Summer Analyst Intern, Data and Analytics | Toronto, ON | [Apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1) | Aug 27, 2026 |
 | Google | 🔥 Software Developer Intern | Montreal, QC, Canada; Toronto, ON, Canada; Waterloo, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/112518690523488966?utm_source=Simplify&ref=Simplify) | Aug 25, 2026 |
 | Zip | Software Engineer Intern | Toronto, ON | [Apply](https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e/) | Aug 25, 2026 |
-| Ontario Teachers' Pension Plan | Total Fund Risk Intern - Months | Toronto, ON, Canada | [Apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Total-Risk-Fund--May-2027---12-months-_7212?utm_source=Simplify&ref=Simplify) | Aug 24, 2026 |
-| ↳ | Business Insights and Analytics Intern, Member Services | Toronto, ON | [Apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Member-Services--Business-Insights-and-Analytics--January-2027---8-months-_7179) | Aug 21, 2026 |
+| Ontario Teachers' Pension Plan | Business Insights and Analytics Intern, Member Services | Toronto, ON | [Apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Member-Services--Business-Insights-and-Analytics--January-2027---8-months-_7179) | Aug 21, 2026 |
 | Epic Games | Machine Learning Research Intern | Montreal, Canada | [Apply](https://www.epicgames.com/site/careers/jobs/6138140004?gh_jid=6138140004&utm_source=github-vansh-ouckah) | Aug 21, 2026 |
 | Goldman Sachs | Summer Analyst, Engineering | Toronto, ON | [Apply](https://higher.gs.com/roles/171567) | Aug 20, 2026 |
 | Royal Bank of Canada | Capital Markets, QTS, Software Developer | Bedford, NS | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/90-WESTERN-PKYBEDFORD/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months--Halifax_R-0000184830-1) | Aug 18, 2026 |
@@ -305,6 +310,5 @@ Last updated: Sep 22, 2026.
 | PSP Investments | AI Solutions Intern - External Manager Selection &amp; Monitoring | Montreal, QC, Canada | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--AI-Solutions-for-External-Manager-Selection---Monitoring--May---August-2027-_R4933?utm_source=Simplify&ref=Simplify) | — |
 | Epic Games | Machine Learning Intern | Canada | [Apply](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004&utm_source=Simplify&ref=Simplify) | — |
 | ↳ | Machine Learning Intern - Special Projects - Epic Research Group | Montreal, QC, Canada | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004&utm_source=Simplify&ref=Simplify) | — |
-| Ontario Teachers' Pension Plan | Risk Intern - Models and Asset Liability | Toronto, ON, Canada | [Apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Risk--Models-and-Asset-Liability--May-2027---12-months-_7196?utm_source=Simplify&ref=Simplify) | — |
 
 Listings can close or change between refreshes. Check the application page for current details.
