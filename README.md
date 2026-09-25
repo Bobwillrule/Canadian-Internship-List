@@ -4,22 +4,29 @@ A regularly updated GitHub list of Canadian tech internships and co-op roles for
 
 Browse Winter, Summer, and Fall 2027 opportunities in Toronto, Montreal, Vancouver, Ottawa, Waterloo, and other Canadian cities, plus remote internships open to applicants in Canada. Listings link to application pages and are sorted by posting date, newest first.
 
-Last updated: Sep 25, 2026, 7:27 PM UTC.
+Last updated: Sep 25, 2026, 10:41 PM UTC.
 
 ## 2027 Canadian internship listings
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
-| Manulife Financial | Product Management &amp; Risk Technology Co-op | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Product-Management---Risk-Technology_JR26080874?utm_source=Simplify&ref=Simplify) | Sep 24, 2026 |
+| Royal Bank of Canada | Capital Markets Analyst Intern (Winter 2027) | Toronto, ON | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--AidenEdge-Program-Winter-Analyst--4-Months-_R-0000187318-2) | Sep 25, 2026 |
 | Semtech | Digital IC Design Intern | Ottawa, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Digital-IC-Design-Engineering-Intern_REQ3620?utm_source=Simplify&ref=Simplify) | Sep 24, 2026 |
-| ↳ | Firmware Intern | Ottawa, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617?utm_source=Simplify&ref=Simplify) | Sep 24, 2026 |
-| ↳ | Validation Engineering Intern - Signal Integrity Products Group | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Validation-Engineering-Intern_REQ3628?utm_source=Simplify&ref=Simplify) | Sep 24, 2026 |
 | ↳ | Analog Design Engineer Intern | Calgary, AB, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3623?utm_source=Simplify&ref=Simplify) | Sep 24, 2026 |
 | ↳ | Analog Design Intern | Ottawa, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Analog-Design-Intern_REQ3625?utm_source=Simplify&ref=Simplify) | Sep 24, 2026 |
 | ↳ | Analog Design Engineer Intern - Signal Integrity Products Group | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622?utm_source=Simplify&ref=Simplify) | Sep 24, 2026 |
-| ↳ | Validation Engineering Intern | Ottawa, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Validation-Engineering-Intern_REQ3618?utm_source=Simplify&ref=Simplify) | Sep 24, 2026 |
-| Marvell | Analog Design Intern Co-op - Master’s | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862?utm_source=Simplify&ref=Simplify) | Sep 24, 2026 |
-| ↳ | Analog and Mixed Signal Layout Engineer Intern Co-op | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790?utm_source=Simplify&ref=Simplify) | Sep 24, 2026 |
+| Cenovus Energy | Information Technology Student (Summer 2027) | Calgary, AB | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--IT--Data-Science-and-Software--Calgary--May-2027-_R-411145) | Sep 24, 2026 |
+| Acuity | Hardware Development Intern | Brossard, QC | [Apply](https://careers.acuityinc.com/job/Brossard-Stagiaire-d%C3%A9veloppement-mat%C3%A9riel-%28hardware%29-Qu%C3%A9b-J4Y-0C4/1433678100/?ats=successfactors) | Sep 24, 2026 |
+| Semtech | Firmware Design Intern (Summer 2027) | Ottawa, ON | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) | Sep 24, 2026 |
+| ↳ | Applications Engineering Intern | Burlington, ON | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3616) | Sep 24, 2026 |
+| ↳ | Validation Engineering Intern (Summer 2027) | Ottawa, ON | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Validation-Engineering-Intern_REQ3618) | Sep 24, 2026 |
+| ↳ | Applications Engineer Intern | Burlington, ON | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3615) | Sep 24, 2026 |
+| ↳ | Validation Engineering Intern (Summer 2027) | Burlington, ON | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Validation-Engineering-Intern_REQ3628) | Sep 24, 2026 |
+| Marvell | Analog Design Intern, BS, 2027 Co-op | Toronto, ON | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788) | Sep 24, 2026 |
+| ↳ | Analog Design Intern, Master’s, 2027 Co-op | Toronto, ON | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862) | Sep 24, 2026 |
+| ↳ | Analog and Mixed Signal Layout Engineer Intern, 2027 Co-Op | Toronto, ON | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790) | Sep 24, 2026 |
+| Manulife Financial | Global Risk Intelligence and Technology Co-op (Winter 2027) | Toronto, ON | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---GRIT_JR26080515) | Sep 24, 2026 |
+| ↳ | Product Management &amp; Risk Technology Co-op (Winter 2027) | Toronto, ON | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Product-Management---Risk-Technology_JR26080874) | Sep 24, 2026 |
 | Royal Bank of Canada | Quantum Technologies Intern (Winter 2027) | Toronto, ON | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Quantum-Computing-Specialist--8-Months_R-0000188860-1) | Sep 24, 2026 |
 | GoTo Group | Software Engineer Intern, C3PO | Remote, Canada | [Apply](https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/C3PO-Intern_R26-2245) | Sep 24, 2026 |
 | Marvell | Data Center Silicon Hardware Engineering Intern Co-op | Toronto, ON / Ottawa, ON | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525) | Sep 24, 2026 |
@@ -180,7 +187,6 @@ Last updated: Sep 25, 2026, 7:27 PM UTC.
 | Exegy | Software Developer Intern | Montreal, QC | [Apply](https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb/) | Sep 10, 2026 |
 | Geotab | Embedded Developer Intern - Engine Data Reliability | Oakville, ON | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008) | Sep 10, 2026 |
 | Mackenzie Investments | Winter Intern, Investment Management, Multi-Asset | Winnipeg, MB | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/6008/job?mobile=true&needsRedirect=false) | Sep 10, 2026 |
-| Rivian and Volkswagen Group Technologies | Software Engineering Intern - Vehicle Controls | Vancouver, BC, Canada | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b/application?embed=true&utm_source=Simplify&ref=Simplify) | Sep 9, 2026 |
 | Grass Valley | Software Development Intern | Montreal, QC | [Apply](https://grassvalley.applytojob.com/apply/r0V942NWEh/Stagiaire-Dveloppement-De-Logiciel-C-Intern-Software-Development-C) | Sep 9, 2026 |
 | Pomerleau | HR Data Analyst Intern | Montreal, QC | [Apply](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3709) | Sep 9, 2026 |
 | ↳ | GIS Data Analyst Intern | Montreal, QC | [Apply](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3695) | Sep 9, 2026 |
@@ -198,6 +204,7 @@ Last updated: Sep 25, 2026, 7:27 PM UTC.
 | ↳ | Data Engineering Developer Intern Co-op | Montreal, QC | [Apply](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Engineering-Developer-I---4-Month-Internship-Co-op--Winter-2027--_R155204) | Sep 9, 2026 |
 | ↳ | Artificial Intelligence Developer Intern Co-op | Toronto, ON | [Apply](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/AI-Developer---4-Month-Internship-Co-op--Winter-2027--_R155234) | Sep 9, 2026 |
 | ↳ | AI Developer Intern Co-op | Montreal, QC | [Apply](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/AI-Developer---4-Month-Internship-Co-op--Winter-2027--_R155233) | Sep 9, 2026 |
+| Rivian and Volkswagen Group Technologies | Software Engineering Intern - Vehicle Controls | Vancouver, BC, Canada | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b/application?embed=true&utm_source=Simplify&ref=Simplify) | Sep 8, 2026 |
 | Zaber Technologies | Software Developer Co-op | Vancouver, BC | [Apply](https://apply.workable.com/zaber/j/EAB5877DC3/) | Sep 8, 2026 |
 | ↳ | Embedded Software Co-op | Vancouver, BC | [Apply](https://apply.workable.com/zaber/j/1F627CC2BB/) | Sep 8, 2026 |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern, Vehicle Controls | Vancouver, BC | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b/) | Sep 8, 2026 |
@@ -218,7 +225,6 @@ Last updated: Sep 25, 2026, 7:27 PM UTC.
 | ↳ | Developer, RBC Amplify | Halifax, NS | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000187119) | Sep 7, 2026 |
 | ↳ | Data Engineer, RBC Amplify | Toronto, ON | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000187113) | Sep 7, 2026 |
 | Entrust | Software Developer Intern | Ottawa, ON | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern---Software-Developer---8-months-Hybrid-in-Ottawa_R004358) | Sep 7, 2026 |
-| Hexagon AB | Positioning Services Intern | Calgary, AB, Canada | [Apply](https://careers-hexagonpositioning.icims.com/jobs/3085/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Sep 4, 2026 |
 | Bree | Software Engineer Co-op, Product | Toronto, ON | [Apply](http://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88/application?embed=true) | Sep 4, 2026 |
 | ↳ | Software Engineer Co-op, Backend | Toronto, ON | [Apply](http://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b/application?embed=true) | Sep 4, 2026 |
 | General Dynamics UK | Systems Engineering Co-op | Ottawa, ON | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147549219) | Sep 4, 2026 |
@@ -232,6 +238,7 @@ Last updated: Sep 25, 2026, 7:27 PM UTC.
 | ↳ | Proactive Engine Performance Monitoring Intern | Longueuil, QC | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027--Supervision-proactive-de-la-performance-des-moteurs---DPHM-proactive---Internship---Winter-2027---Proactive-Engine-Performance-Monitoring---Proactive-DPHM_01871323) | Sep 4, 2026 |
 | Procter &amp; Gamble | Digital Technologies Intern/Co-op | Toronto, ON | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/Digital-Technologies-Internship-Co-op---Stage-ou-programme-coopratif-en-en-technologies-digitales_R000158595) | Sep 4, 2026 |
 | ↳ | Analytics &amp; Insights Intern/Co-op | Toronto, ON | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/Analytics---Insights-Internship-Co-op-Summer-2027--Stage-ou-programme-coopratif-en-Analyse-et-veille-stratgique-t-2027_R000158592) | Sep 4, 2026 |
+| Hexagon AB | Positioning Services Intern | Calgary, AB, Canada | [Apply](https://careers-hexagonpositioning.icims.com/jobs/3085/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Sep 3, 2026 |
 | Geotab | Software Developer Intern | Toronto, ON / Oakville, ON / Waterloo, ON | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5376578008) | Sep 3, 2026 |
 | AltaML | Associate Software Developer | Calgary, AB / Edmonton, AB | [Apply](https://jobs.lever.co/altaml/abed5ba5-8cbe-46b1-beae-25fe30bc4c91/) | Sep 3, 2026 |
 | General Dynamics UK | Software Engineering Co-op | Calgary, AB | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147563929) | Sep 3, 2026 |
@@ -306,22 +313,19 @@ Last updated: Sep 25, 2026, 7:27 PM UTC.
 | ↳ | Data &amp; Analytics Co-op | Toronto, ON | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Winter-Co-op---Data---Analytics--8-Months-_JR26081944) | Aug 31, 2026 |
 | ↳ | Reporting Analyst Intern | Toronto, ON | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Reporting-Analyst_JR26080667) | Aug 31, 2026 |
 | ↳ | Reporting Analyst Co-op | Toronto, ON | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Winter-Co-op---Reporting-Analyst_JR26080665) | Aug 31, 2026 |
-| Elk Valley Resources | Geographic Information Systems Co-op | Calgary, AB, Canada | [Apply](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply?utm_source=Simplify&ref=Simplify) | Aug 27, 2026 |
 | Alberta Investment Management Corporation | 🔥 Fixed Income Co-op | Calgary, AB, Canada | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Calgary/Co-op--Fixed-Income--May-2027-_JR100898?utm_source=Simplify&ref=Simplify) | Aug 27, 2026 |
 | AMI | Computer Vision Scientist Intern, Geometry and 3D Vision | Montreal, QC | [Apply](https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/) | Aug 27, 2026 |
 | Marsh | Summer Analyst Intern, Data and Analytics | Toronto, ON | [Apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1) | Aug 27, 2026 |
+| Elk Valley Resources | Geographic Information Systems Co-op | Calgary, AB, Canada | [Apply](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply?utm_source=Simplify&ref=Simplify) | Aug 26, 2026 |
 | Zip | Software Engineer Intern | Toronto, ON | [Apply](https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e/) | Aug 25, 2026 |
 | Epic Games | Machine Learning Research Intern | Montreal, Canada | [Apply](https://www.epicgames.com/site/careers/jobs/6138140004?gh_jid=6138140004&utm_source=github-vansh-ouckah) | Aug 21, 2026 |
 | Goldman Sachs | Summer Analyst, Engineering | Toronto, ON | [Apply](https://higher.gs.com/roles/171567) | Aug 20, 2026 |
-| Royal Bank of Canada | Capital Markets, QTS, Software Developer | Bedford, NS | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/90-WESTERN-PKYBEDFORD/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months--Halifax_R-0000184830-1) | Aug 18, 2026 |
+| Royal Bank of Canada | Capital Markets, QTS, Software Developer (Winter 2027) | Bedford, NS | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/90-WESTERN-PKYBEDFORD/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months--Halifax_R-0000184830-1) | Aug 18, 2026 |
 | Thomson Reuters | Applied Research Intern, NLP/ML/GenAI | Toronto, ON | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812) | Aug 17, 2026 |
-| Analysis Group | Research Professional Intern, Generalist | Montreal, QC | [Apply](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false) | Aug 14, 2026 |
-| Autodesk | Software Developer Intern | Montreal, QC | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) | Aug 11, 2026 |
-| ↳ | Cloud Developer Intern, Interactive Graphics, Media &amp; Entertainment | Montreal, QC | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400) | Aug 7, 2026 |
+| Analysis Group | Research Professional Intern, Generalist (Summer 2027) | Montreal, QC | [Apply](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false) | Aug 14, 2026 |
 | DRW | 🔥 Software Developer Intern | Montréal | [Apply](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687?utm_source=github-vansh-ouckah) | Jul 31, 2026 |
 | ↳ | AI/ML Research Intern | Montréal | [Apply](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679?utm_source=github-vansh-ouckah) | Jul 31, 2026 |
-| Kepler Communications | FPGA Digital Design Engineer Intern | Toronto, ON | [Apply](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/) | Jul 22, 2026 |
-| Onware | Full Stack Developer, Intern | Edmonton, AB | [Apply](https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a) | Jul 21, 2026 |
+| Kepler Communications | FPGA Digital Design Engineer Intern (Summer 2027) | Toronto, ON | [Apply](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/) | Jul 22, 2026 |
 | Georgian Partners Growth | AI/ML Engineer Intern | Toronto, ON | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab/) | Jul 21, 2026 |
 | Google | Software Developer Intern, PhD, Summer 2027 | Waterloo, ON, Canada ; Toronto, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/112518690523488966-software-developer-intern-phd-summer-2027?q=intern&location=Canada) | — |
 | ↳ | Software Developer Intern, MS, Summer 2027 | Waterloo, ON, Canada ; Toronto, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/138960139137753798-software-developer-intern-ms-summer-2027?q=intern&location=Canada) | — |
@@ -337,7 +341,5 @@ Last updated: Sep 25, 2026, 7:27 PM UTC.
 | ↳ | Student Researcher, BS/MS, Fall 2026 | Montreal, QC, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/113855697199735494-student-researcher-bsms-fall-2026?q=student+researcher&location=Canada) | — |
 | ↳ | 🔥 Software Developer Intern | Montreal, QC, Canada; Toronto, ON, Canada; Waterloo, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/112518690523488966?utm_source=Simplify&ref=Simplify) | — |
 | PSP Investments | AI Solutions Intern - External Manager Selection &amp; Monitoring | Montreal, QC, Canada | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--AI-Solutions-for-External-Manager-Selection---Monitoring--May---August-2027-_R4933?utm_source=Simplify&ref=Simplify) | — |
-| Epic Games | Machine Learning Intern | Canada | [Apply](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004&utm_source=Simplify&ref=Simplify) | — |
-| ↳ | Machine Learning Intern - Special Projects - Epic Research Group | Montreal, QC, Canada | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004&utm_source=Simplify&ref=Simplify) | — |
 
 Listings can close or change between refreshes. Check the application page for current details.
