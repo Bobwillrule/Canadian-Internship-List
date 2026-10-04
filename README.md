@@ -4,7 +4,7 @@ A regularly updated GitHub list of Canadian tech internships and co-op roles for
 
 Browse Winter, Summer, and Fall 2027 opportunities in Toronto, Montreal, Vancouver, Ottawa, Waterloo, and other Canadian cities, plus remote internships open to applicants in Canada. Listings link to application pages and are sorted by posting date, newest first.
 
-Last updated: Oct 3, 2026, 10:19 PM UTC.
+Last updated: Oct 4, 2026, 2:50 AM UTC.
 
 ## 2027 Canadian internship listings
 
@@ -26,9 +26,9 @@ Last updated: Oct 3, 2026, 10:19 PM UTC.
 | Hitachi Energy | Hardware Test Engineering Intern (Summer 2027) | Toronto, ON | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) | Oct 2, 2026 |
 | Marvell | Firmware Engineer Intern Co-op | Toronto, ON | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959) | Oct 2, 2026 |
 | Intel | GPU &amp; AI Accelerator Hardware Design Undergraduate Intern | Toronto, ON | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) | Oct 2, 2026 |
-| Autodesk | Software Development Intern | Toronto, ON, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1?utm_source=Simplify&ref=Simplify) | Oct 1, 2026 |
 | Microsoft | Data Center Technicians - IT INTERNSHIP - Neurodiversity Hiring Program | Canada, Ontario, Toronto | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557016454?hl=en) | Oct 1, 2026 |
-| ↳ | Data Center Technicians - IT INTERNSHIP | Canada, Ontario, Greater Toronto | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557021556?hl=en) | Oct 1, 2026 |
+| Autodesk | Software Development Intern | Toronto, ON, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1?utm_source=Simplify&ref=Simplify) | Oct 1, 2026 |
+| Microsoft | Data Center Technicians - IT INTERNSHIP | Canada, Ontario, Greater Toronto | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557021556?hl=en) | Oct 1, 2026 |
 | Stripe | Data Analyst Intern | Toronto, ON | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) | Oct 1, 2026 |
 | ↳ | PhD Data Scientist | Toronto, ON | [Apply](https://stripe.com/jobs/search?gh_jid=8194285) | Oct 1, 2026 |
 | Pinterest | Machine Learning Intern | Toronto, ON | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) | Oct 1, 2026 |
@@ -189,7 +189,6 @@ Last updated: Oct 3, 2026, 10:19 PM UTC.
 | ↳ | Business Intelligence Co-op | Toronto, ON | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351) | Sep 11, 2026 |
 | ↳ | Commercial Insurance Portfolio Analyst Co-op Intern | Toronto, ON | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9349) | Sep 11, 2026 |
 | ↳ | Analyst Co-op Intern, Consumer Insights &amp; Market Research | Toronto, ON | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9344) | Sep 11, 2026 |
-| Rocket Lab USA | Electrical Engineer Intern - Space Systems Division | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990043003?utm_source=Simplify&ref=Simplify) | Sep 10, 2026 |
 | Geotab | Embedded Developer Intern - Engine Data Reliability | Oakville, ON | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008) | Sep 10, 2026 |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Vehicle Controls | Vancouver, BC, Canada | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b/application?embed=true&utm_source=Simplify&ref=Simplify) | Sep 9, 2026 |
 | Grass Valley | Software Development Intern | Montreal, QC | [Apply](https://grassvalley.applytojob.com/apply/r0V942NWEh/Stagiaire-Dveloppement-De-Logiciel-C-Intern-Software-Development-C) | Sep 9, 2026 |
