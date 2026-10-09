@@ -4,12 +4,14 @@ A regularly updated GitHub list of Canadian tech internships and co-op roles for
 
 Browse Winter, Summer, and Fall 2027 opportunities in Toronto, Montreal, Vancouver, Ottawa, Waterloo, and other Canadian cities, plus remote internships open to applicants in Canada. Listings link to application pages and are sorted by posting date, newest first.
 
-Last updated: Oct 8, 2026, 8:48 PM UTC.
+Last updated: Oct 9, 2026, 3:04 AM UTC.
 
 ## 2027 Canadian internship listings
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Manulife Financial | Product Management &amp; Risk Technology Intern | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875?utm_source=Simplify&ref=Simplify) | Oct 8, 2026 |
+| ↳ | Grit Intern | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GRIT_JR26080516?utm_source=Simplify&ref=Simplify) | Oct 8, 2026 |
 | Autodesk | Research Intern - AI Research | Toronto, ON, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1?utm_source=Simplify&ref=Simplify) | Oct 7, 2026 |
 | ↳ | Research Intern - AI Research | Toronto, ON, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373?utm_source=Simplify&ref=Simplify) | Oct 7, 2026 |
 | Khan Academy | Software Engineer Intern | Remote in Canada | [Apply](https://job-boards.greenhouse.io/khanacademy/jobs/8250259?utm_source=Simplify&ref=Simplify) | Oct 6, 2026 |
@@ -33,9 +35,9 @@ Last updated: Oct 8, 2026, 8:48 PM UTC.
 | Hitachi Energy | Hardware Test Engineering Intern (Summer 2027) | Toronto, ON | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) | Oct 2, 2026 |
 | Marvell | Firmware Engineer Intern Co-op | Toronto, ON | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959) | Oct 2, 2026 |
 | Intel | GPU &amp; AI Accelerator Hardware Design Undergraduate Intern | Toronto, ON | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) | Oct 2, 2026 |
-| Autodesk | Software Development Intern | Toronto, ON, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1?utm_source=Simplify&ref=Simplify) | Oct 1, 2026 |
 | Microsoft | Data Center Technicians - IT INTERNSHIP - Neurodiversity Hiring Program | Canada, Ontario, Toronto | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557016454?hl=en) | Oct 1, 2026 |
-| ↳ | Data Center Technicians - IT INTERNSHIP | Canada, Ontario, Greater Toronto | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557021556?hl=en) | Oct 1, 2026 |
+| Autodesk | Software Development Intern | Toronto, ON, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1?utm_source=Simplify&ref=Simplify) | Oct 1, 2026 |
+| Microsoft | Data Center Technicians - IT INTERNSHIP | Canada, Ontario, Greater Toronto | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557021556?hl=en) | Oct 1, 2026 |
 | Stripe | Data Analyst Intern | Toronto, ON | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) | Oct 1, 2026 |
 | ↳ | PhD Data Scientist | Toronto, ON | [Apply](https://stripe.com/jobs/search?gh_jid=8194285) | Oct 1, 2026 |
 | Pinterest | Machine Learning Intern | Toronto, ON | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) | Oct 1, 2026 |
@@ -161,6 +163,7 @@ Last updated: Oct 8, 2026, 8:48 PM UTC.
 | Bank of Montreal | Quantitative Developer (Alpha Research Team), GAM | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715) | Sep 14, 2026 |
 | Blue Robotics | Electronics Design Co-op | Victoria, BC, Canada | [Apply](https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8?utm_source=Simplify&ref=Simplify) | Sep 12, 2026 |
 | Ciena | NPI Hardware Co-op - 8 month | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642?utm_source=Simplify&ref=Simplify) | Sep 11, 2026 |
+| L3Harris Technologies | Electro-Optical Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1428468700/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Sep 11, 2026 |
 | Qualcomm | Machine Learning Compiler &amp; Performance Engineering Intern | Markham, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721064018) | Sep 11, 2026 |
 | Dialogue | Full Stack Developer Intern | Montreal, QC | [Apply](https://ats.rippling.com/dialogue-en/jobs/3c2341d5-604d-463c-8b79-5d1669d81e78) | Sep 11, 2026 |
 | Cozey | Data Science Intern | Mount-Royal, QC | [Apply](https://ats.rippling.com/cozey-internships/jobs/1e50d436-06c1-447c-b676-5e487b19433c) | Sep 11, 2026 |
@@ -180,7 +183,6 @@ Last updated: Oct 8, 2026, 8:48 PM UTC.
 | ↳ | Business Intelligence Co-op | Toronto, ON | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351) | Sep 11, 2026 |
 | ↳ | Commercial Insurance Portfolio Analyst Co-op Intern | Toronto, ON | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9349) | Sep 11, 2026 |
 | ↳ | Analyst Co-op Intern, Consumer Insights &amp; Market Research | Toronto, ON | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9344) | Sep 11, 2026 |
-| L3Harris Technologies | Electro-Optical Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1428468700/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Sep 10, 2026 |
 | Geotab | Embedded Developer Intern - Engine Data Reliability | Oakville, ON | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008) | Sep 10, 2026 |
 | Grass Valley | Software Development Intern | Montreal, QC | [Apply](https://grassvalley.applytojob.com/apply/r0V942NWEh/Stagiaire-Dveloppement-De-Logiciel-C-Intern-Software-Development-C) | Sep 9, 2026 |
 | Pomerleau | GIS Data Analyst Intern | Montreal, QC | [Apply](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3695) | Sep 9, 2026 |
