@@ -4,7 +4,7 @@ A regularly updated GitHub list of Canadian tech internships and co-op roles for
 
 Browse Winter, Summer, and Fall 2027 opportunities in Toronto, Montreal, Vancouver, Ottawa, Waterloo, and other Canadian cities, plus remote internships open to applicants in Canada. Listings link to application pages and are sorted by posting date, newest first.
 
-Last updated: Oct 12, 2026, 2:35 AM UTC.
+Last updated: Oct 12, 2026, 11:15 AM UTC.
 
 ## 2027 Canadian internship listings
 
@@ -258,7 +258,6 @@ Last updated: Oct 12, 2026, 2:35 AM UTC.
 | Google | Software Developer Intern, PhD, Summer 2027 | Waterloo, ON, Canada ; Toronto, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/112518690523488966-software-developer-intern-phd-summer-2027?q=intern&location=Canada) | — |
 | ↳ | Research Intern, PhD, Summer 2027 | Waterloo, ON, Canada ; Toronto, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/131287072689267398-research-intern-phd-summer-2027?q=intern&location=Canada) | — |
 | ↳ | Research Intern, PhD, Summer 2027 | Waterloo, ON, Canada ; Toronto, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/104496653687235270-research-intern-phd-summer-2027?q=intern&location=Canada) | — |
-| ↳ | Security Consultant Intern, BS/MS, Summer 2027 | Waterloo, ON, Canada ; Toronto, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bsms-summer-2027?q=intern&location=Canada) | — |
 | ↳ | Student Researcher, PhD, Winter-Summer 2027 | Montreal, QC, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/141525012002546374-student-researcher-phd-wintersummer-2027?q=student+researcher&location=Canada) | — |
 | ↳ | Student Researcher, PhD, Winter-Summer 2027 | Montreal, QC, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/75043041429070534-student-researcher-phd-wintersummer-2027?q=student+researcher&location=Canada) | — |
 | ↳ | Student Researcher, BS/MS, Winter-Summer 2027 | Montreal, QC, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/104405499448828614-student-researcher-bsms-wintersummer-2027?q=student+researcher&location=Canada) | — |
