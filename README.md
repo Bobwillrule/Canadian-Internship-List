@@ -4,7 +4,7 @@ A regularly updated GitHub list of Canadian tech internships and co-op roles for
 
 Browse Winter, Summer, and Fall 2027 opportunities in Toronto, Montreal, Vancouver, Ottawa, Waterloo, and other Canadian cities, plus remote internships open to applicants in Canada. Listings link to application pages and are sorted by posting date, newest first.
 
-Last updated: Oct 19, 2026, 1:33 AM UTC.
+Last updated: Oct 19, 2026, 9:14 AM UTC.
 
 ## 2027 Canadian internship listings
 
@@ -14,6 +14,7 @@ Last updated: Oct 19, 2026, 1:33 AM UTC.
 | Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply?utm_source=Simplify&ref=Simplify) | Oct 17, 2026 |
 | Electronic Arts | AI/ML Software Engineer Co-op Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234?utm_source=Simplify&ref=Simplify) | Oct 17, 2026 |
 | Synopsys | Technical-Engineering Intern | Mississauga, ON, Canada | [Apply](https://synopsys.avature.net/careers/JobDetail/19195?utm_source=Simplify&ref=Simplify) | Oct 17, 2026 |
+| Waabi | Safety Methodologies Intern Co-op (Summer 2027) | Toronto, ON | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/) | Oct 16, 2026 |
 | D2L | Software Developer Co-op, Custom Development Services (Winter 2027) | Kitchener, ON | [Apply](https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767) | Oct 16, 2026 |
 | Behaviour Interactive | Product Management Intern (Winter 2027) | Montreal, QC | [Apply](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/) | Oct 16, 2026 |
 | Electronic Arts | Analytics Intern (Summer 2027) | Vancouver, BC | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232) | Oct 16, 2026 |
@@ -105,8 +106,8 @@ Last updated: Oct 19, 2026, 1:33 AM UTC.
 | Hitachi Energy | Hardware Test Engineering Intern (Summer 2027) | Toronto, ON | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) | Oct 2, 2026 |
 | Marvell | Firmware Engineer Intern Co-op | Toronto, ON | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959) | Oct 2, 2026 |
 | Microsoft | Data Center Technicians - IT INTERNSHIP - Neurodiversity Hiring Program | Canada, Ontario, Toronto | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557016454?hl=en) | Oct 1, 2026 |
-| ↳ | Data Center Technicians - IT INTERNSHIP | Canada, Ontario, Greater Toronto | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557021556?hl=en) | Oct 1, 2026 |
 | Autodesk | Software Development Intern | Toronto, ON, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1?utm_source=Simplify&ref=Simplify) | Oct 1, 2026 |
+| Microsoft | Data Center Technicians - IT INTERNSHIP | Canada, Ontario, Greater Toronto | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557021556?hl=en) | Oct 1, 2026 |
 | Stripe | Data Analyst Intern | Toronto, ON | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) | Oct 1, 2026 |
 | ↳ | PhD Data Scientist | Toronto, ON | [Apply](https://stripe.com/jobs/search?gh_jid=8194285) | Oct 1, 2026 |
 | Pinterest | Machine Learning Intern | Toronto, ON | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) | Oct 1, 2026 |
