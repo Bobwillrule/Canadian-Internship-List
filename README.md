@@ -4,7 +4,7 @@ A regularly updated GitHub list of Canadian tech internships and co-op roles for
 
 Browse Winter, Summer, and Fall 2027 opportunities in Toronto, Montreal, Vancouver, Ottawa, Waterloo, and other Canadian cities, plus remote internships open to applicants in Canada. Listings link to application pages and are sorted by posting date, newest first.
 
-Last updated: Oct 28, 2026, 8:28 AM UTC.
+Last updated: Oct 28, 2026, 8:32 AM UTC.
 
 ## 2027 Canadian internship listings
 
@@ -44,9 +44,6 @@ Last updated: Oct 28, 2026, 8:28 AM UTC.
 | ↳ | Product Management Intern, End User Experience (Winter 2027) | Remote, Canada | [Apply](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/) | Oct 23, 2026 |
 | ↳ | Developer Intern, Credential Brokering (Winter 2027) | Remote, Canada | [Apply](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/) | Oct 23, 2026 |
 | Amazon | Applied Science Intern - PhD Student Science | Toronto, ON / Burnaby, BC / Vancouver, BC / Pitt Meadows, BC | [Apply](https://amazon.jobs/en/jobs/10564588/2027-applied-science-internship-canada-phd-student-science-recruiting) | Oct 23, 2026 |
-| SOTI | Associate Product Manager Intern (Summer 2027) | Mississauga, ON | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) | Oct 23, 2026 |
-| ↳ | Associate Product Manager Intern (Summer 2027) | Mississauga, ON | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) | Oct 23, 2026 |
-| ↳ | Associate Product Manager Intern (Summer 2027) | Mississauga, ON | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615) | Oct 23, 2026 |
 | Thales | Tools and Process Development Intern | Montreal, QC | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-en-dveloppement-outils---processus-outill_R0343987-1) | Oct 23, 2026 |
 | Trimble | Navigation &amp; Machine Learning Engineer Intern (Summer 2027) | Richmond Hill, ON | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980) | Oct 23, 2026 |
 | ↳ | Software Engineer Intern (Summer 2027) | Richmond Hill, ON | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963) | Oct 23, 2026 |
@@ -122,10 +119,10 @@ Last updated: Oct 28, 2026, 8:28 AM UTC.
 | HeyGen | Software Engineer Intern (Winter 2027) | Toronto, ON | [Apply](https://job-boards.greenhouse.io/heygen/jobs/4540716007) | Oct 19, 2026 |
 | Qualcomm | Machine Learning AISW Intern | Markham, ON, Canada | [Apply](https://go.vansh.nyc/c8?s=y) | Oct 19, 2026 |
 | ↳ | QDSP Hardware Physical Design Intern | Markham, ON, Canada | [Apply](https://go.vansh.nyc/c9?s=y) | Oct 19, 2026 |
-| Lyft | Software Engineer Intern, Test Automation | Montreal, Canada | [Apply](https://go.vansh.nyc/RT?s=y) | Oct 19, 2026 |
+| Lyft | 🔥 Software Engineer Intern, Test Automation | Montreal, Canada | [Apply](https://go.vansh.nyc/RT?s=y) | Oct 19, 2026 |
 | Lumentum | Optical Algorithms and Analytics Engineering Co-op | Ottawa, ON | [Apply](https://go.vansh.nyc/dy?s=y) | Oct 19, 2026 |
 | Citco | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://go.vansh.nyc/ca?s=y) | Oct 19, 2026 |
-| BMO Financial Group | Junior Cloud Engineer Co-op | Toronto, ON | [Apply](https://go.vansh.nyc/bG?s=y) | Oct 19, 2026 |
+| BMO Financial Group | 🔥 Junior Cloud Engineer Co-op | Toronto, ON | [Apply](https://go.vansh.nyc/bG?s=y) | Oct 19, 2026 |
 | Qualcomm | Machine Learning Compiler &amp; Performance Engineering Intern | Markham, Canada | [Apply](https://go.vansh.nyc/Rw?s=y) | Oct 18, 2026 |
 | ↳ | Low-Power AI, Audio, and Sensors Subsystem Engineering Intern, ASIC Firmware / Embedded | Markham, Canada | [Apply](https://go.vansh.nyc/Rx?s=y) | Oct 18, 2026 |
 | ↳ | Firmware/Embedded Software Engineering Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/Ry?s=y) | Oct 18, 2026 |
@@ -150,17 +147,16 @@ Last updated: Oct 28, 2026, 8:28 AM UTC.
 | Electronic Arts | Analytics Intern | Vancouver, BC, Canada | [Apply](https://go.vansh.nyc/aR?s=y) | Oct 16, 2026 |
 | Eaton | C++ Developer Intern, Research &amp; Development Engineering | Brossard, QC, Canada | [Apply](https://go.vansh.nyc/b1?s=y) | Oct 16, 2026 |
 | Altera | Software Engineer Intern | Toronto, ON | [Apply](https://go.vansh.nyc/ac?s=y) | Oct 16, 2026 |
-| Tower Research Capital | Machine Learning Intern | Montreal, QC | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) | Oct 15, 2026 |
 | TechInsights | Software Development Co-op Student (Winter 2026) | Ottawa, ON | [Apply](https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026) | Oct 15, 2026 |
 | Nokia | Embedded C/C++ Software Developer Co-op Intern (Winter 2027) | Ottawa, ON | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) | Oct 15, 2026 |
 | Intel | Compiler Engineer Intern | Toronto, ON | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) | Oct 15, 2026 |
 | Ciena | Embedded Software Developer Intern (Winter 2027) | Ottawa, ON | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890) | Oct 15, 2026 |
-| Tower Research Capital | Machine Learning Intern | Montreal, QC | [Apply](https://go.vansh.nyc/9U?s=y) | Oct 15, 2026 |
+| Tower Research Capital | 🔥 Machine Learning Intern | Montreal, QC | [Apply](https://go.vansh.nyc/9U?s=y) | Oct 15, 2026 |
 | Intel | Compiler Engineering Intern | Toronto, ON | [Apply](https://go.vansh.nyc/9M?s=y) | Oct 15, 2026 |
 | Microsoft | Stagiaire en recherche - apprentissage automatique; Research Intern - Machine Learning | Canada, Québec, Montreal | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557040927?hl=en) | Oct 14, 2026 |
 | Kensington | Analytics Intern (Winter 2027) | Toronto, ON | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007) | Oct 14, 2026 |
 | Later | Data Science Co-op (Winter 2027) | Vancouver, BC | [Apply](https://job-boards.greenhouse.io/later/jobs/8889650002) | Oct 14, 2026 |
-| Microsoft | Research Intern, Machine Learning | Montreal, QC | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557040927) | Oct 14, 2026 |
+| Microsoft | 🔥 Research Intern, Machine Learning | Montreal, QC | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557040927) | Oct 14, 2026 |
 | Tenstorrent | Systems Intern, Multiple Teams | Toronto, ON | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) | Oct 14, 2026 |
 | Profound Medical | Software Development Co-op | Mississauga, ON | [Apply](https://profoundmedical.bamboohr.com/careers/353/) | Oct 14, 2026 |
 | Electronic Arts | Software Engineer Intern (Summer 2027) | Vancouver, BC | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287) | Oct 14, 2026 |
@@ -170,7 +166,7 @@ Last updated: Oct 28, 2026, 8:28 AM UTC.
 | National Bank of Canada | Artificial Intelligence Developer Intern | Canada | [Apply](https://go.vansh.nyc/Cr?s=y) | Oct 14, 2026 |
 | ↳ | Artificial Intelligence Scientist Intern | Canada | [Apply](https://go.vansh.nyc/Cs?s=y) | Oct 14, 2026 |
 | Kensington | Analytics Intern | Toronto, ON | [Apply](https://go.vansh.nyc/9e?s=y) | Oct 14, 2026 |
-| Databricks | Software Engineer Intern | Vancouver, BC, Canada | [Apply](https://boards.greenhouse.io/embed/job_app?token=6865687002&utm_source=Simplify&ref=Simplify) | Oct 13, 2026 |
+| Databricks | 🔥 Software Engineer Intern | Vancouver, BC, Canada | [Apply](https://boards.greenhouse.io/embed/job_app?token=6865687002&utm_source=Simplify&ref=Simplify) | Oct 13, 2026 |
 | Pebl | Software Engineering Intern | Toronto, ON, | [Apply](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/) | Oct 13, 2026 |
 | Electronic Arts | Technical Artist Intern (Summer 2027) | Vancouver, BC | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406) | Oct 13, 2026 |
 | SOTI | Software Developer Intern (Winter 2027) | Mississauga, ON | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2) | Oct 13, 2026 |
