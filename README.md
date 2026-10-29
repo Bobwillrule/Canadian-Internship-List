@@ -4,30 +4,38 @@ A regularly updated GitHub list of Canadian tech internships and co-op roles for
 
 Browse Winter, Summer, and Fall 2027 opportunities in Toronto, Montreal, Vancouver, Ottawa, Waterloo, and other Canadian cities, plus remote internships open to applicants in Canada. Listings link to application pages and are sorted by posting date, newest first.
 
-Last updated: Oct 29, 2026, 10:21 AM UTC.
+Last updated: Oct 29, 2026, 8:28 PM UTC.
 
 ## 2027 Canadian internship listings
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
 | Qualcomm | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721828828?utm_source=Simplify&ref=Simplify) | Oct 29, 2026 |
-| ↳ | Camera Design Engineering Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829439?utm_source=Simplify&ref=Simplify) | Oct 29, 2026 |
+| Bank of Montreal | Quantitative Trading Analyst Co-op | Toronto, ON, Canada | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657?utm_source=Simplify&ref=Simplify) | Oct 29, 2026 |
+| Qualcomm | Camera Design Engineering Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829439?utm_source=Simplify&ref=Simplify) | Oct 29, 2026 |
 | Cenovus Energy | Student Risk Analytics Intern | Calgary, AB, Canada | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263?utm_source=Simplify&ref=Simplify) | Oct 28, 2026 |
 | Qualcomm | Deep Learning Research Intern | Markham, Canada | [Apply](https://go.vansh.nyc/YP?s=y) | Oct 28, 2026 |
 | ↳ | Deep Learning Research Intern, Interim Engineering Systems | Markham, Canada | [Apply](https://go.vansh.nyc/Yh?s=y) | Oct 28, 2026 |
 | ↳ | Camera Design Engineering Intern | Vancouver, Canada | [Apply](https://go.vansh.nyc/Yi?s=y) | Oct 28, 2026 |
+| Bank of Montreal | Quantitative Trading Analyst Co-op | Toronto, Canada | [Apply](https://go.vansh.nyc/Z0?s=y) | Oct 28, 2026 |
 | AltaLink | Summer Student Intern - CRU Project Support | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/3FB9DD016F/apply?utm_source=Simplify&ref=Simplify) | Oct 27, 2026 |
-| Royal Bank of Canada | 🔥 Developer Intern | Montreal, QC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206?utm_source=Simplify&ref=Simplify) | Oct 26, 2026 |
-| ↳ | Developer Intern | Calgary, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202?utm_source=Simplify&ref=Simplify) | Oct 26, 2026 |
-| ↳ | Developer Intern | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193?utm_source=Simplify&ref=Simplify) | Oct 26, 2026 |
-| ↳ | Developer Intern | Calgary, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1?utm_source=Simplify&ref=Simplify) | Oct 26, 2026 |
-| ↳ | Developer Intern | Vancouver, BC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199?utm_source=Simplify&ref=Simplify) | Oct 26, 2026 |
-| ↳ | Data Engineer Intern | Calgary, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201-2?utm_source=Simplify&ref=Simplify) | Oct 26, 2026 |
-| ↳ | Data Engineer Intern | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192?utm_source=Simplify&ref=Simplify) | Oct 26, 2026 |
-| ↳ | Data Engineer Intern - Amplify 2027 | Vancouver, BC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198?utm_source=Simplify&ref=Simplify) | Oct 26, 2026 |
+| TMX Group | Analyst Model Validation Intern (Winter 2027) | Montreal, QC | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Intern-Analyst-Model-Validation---Winter-term_R-6603) | Oct 27, 2026 |
+| Royal Bank of Canada | Developer Intern | Calgary, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1?utm_source=Simplify&ref=Simplify) | Oct 26, 2026 |
 | ↳ | Data Engineer Intern | Calgary, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201?utm_source=Simplify&ref=Simplify) | Oct 26, 2026 |
 | ↳ | Data Engineer Intern | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1?utm_source=Simplify&ref=Simplify) | Oct 26, 2026 |
-| AtkinsRéalis | Business Intelligence Intern - Digital | Montreal, QC, Canada | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691?utm_source=Simplify&ref=Simplify) | Oct 26, 2026 |
+| Altera | Undergrad Intern Technical | Toronto, ON | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Undergrad-Intern-Technical_R03351) | Oct 26, 2026 |
+| Royal Bank of Canada | Developer Intern, RBC Amplify (Summer 2027) | Toronto, ON | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114) | Oct 26, 2026 |
+| ↳ | Data Engineer Intern, RBC Amplify (Summer 2027) | Vancouver, BC | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198) | Oct 26, 2026 |
+| ↳ | Developer Intern, RBC Amplify (Summer 2027) | Vancouver, BC | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199) | Oct 26, 2026 |
+| ↳ | Developer Intern, RBC Amplify (Summer 2027) | Calgary, AB | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202) | Oct 26, 2026 |
+| ↳ | Data Engineer Intern, RBC Amplify (Summer 2027) | Calgary, AB | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201-2) | Oct 26, 2026 |
+| ↳ | 🔥 Developer Intern, RBC Amplify (Summer 2027) | Montreal, QC | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206) | Oct 26, 2026 |
+| ↳ | Developer Intern, RBC Amplify (Summer 2027) | Toronto, ON | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193) | Oct 26, 2026 |
+| ↳ | Data Engineer Intern, RBC Amplify (Summer 2027) | Toronto, ON | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192) | Oct 26, 2026 |
+| AtkinsRéalis | Business Intelligence Intern, Digital (Summer 2027) | Montreal, QC | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) | Oct 26, 2026 |
+| CIBC | AI Scientist Co-op (Winter 2027) | Toronto, ON | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1) | Oct 26, 2026 |
+| ↳ | Business Analyst Co-op (Winter 2027) | Toronto, ON | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Analyst-co-op_2622052-1) | Oct 26, 2026 |
+| Sun Life | Software Engineer Co-opو Security (Winter 2027) | Toronto, ON | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065) | Oct 26, 2026 |
 | Uber | 🔥 Software Engineering Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/Wx?s=y) | Oct 26, 2026 |
 | SOTI | Software Developer Intern, Android | Mississauga, Canada | [Apply](https://go.vansh.nyc/SI?s=y) | Oct 26, 2026 |
 | ↳ | Software Developer Intern, Server | Mississauga, Canada | [Apply](https://go.vansh.nyc/SJ?s=y) | Oct 26, 2026 |
@@ -41,7 +49,6 @@ Last updated: Oct 29, 2026, 10:21 AM UTC.
 | ↳ | Product Management Intern | Markham, ON, Canada | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1?utm_source=Simplify&ref=Simplify) | Oct 23, 2026 |
 | RSM | Business Intelligence Consulting Intern | Toronto, ON, Canada; Calgary, AB, Canada; Edmonton, AB, Canada | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1?utm_source=Simplify&ref=Simplify) | Oct 23, 2026 |
 | Synopsys | Technical-Engineering Intern | Markham, ON, Canada | [Apply](https://synopsys.avature.net/careers/JobDetail/19182?utm_source=Simplify&ref=Simplify) | Oct 23, 2026 |
-| Qualcomm | Camera Design Implementation Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678727?utm_source=Simplify&ref=Simplify) | Oct 23, 2026 |
 | American Express | AI Engineer, Enterprise Technology Services (Summer 2027) | Toronto, ON | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) | Oct 23, 2026 |
 | Boson Ai | MScAC Intern (Summer 2027) | Toronto, ON | [Apply](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) | Oct 23, 2026 |
 | 1Password | Developer Intern, Developer Interfaces (Winter 2027) | Remote, Canada | [Apply](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/) | Oct 23, 2026 |
@@ -61,10 +68,10 @@ Last updated: Oct 29, 2026, 10:21 AM UTC.
 | Trimble | Automated Test Engineering Intern | Richmond Hill, Canada | [Apply](https://go.vansh.nyc/hX?s=y) | Oct 23, 2026 |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern, Applications | Vancouver, Canada | [Apply](https://go.vansh.nyc/gv?s=y) | Oct 23, 2026 |
 | ↳ | Software Engineering Intern, Vehicle Controls | Vancouver, Canada | [Apply](https://go.vansh.nyc/gx?s=y) | Oct 23, 2026 |
-| Qualcomm | Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661830?utm_source=Simplify&ref=Simplify) | Oct 22, 2026 |
+| Qualcomm | Camera Design Implementation Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678727?utm_source=Simplify&ref=Simplify) | Oct 22, 2026 |
+| ↳ | Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661830?utm_source=Simplify&ref=Simplify) | Oct 22, 2026 |
 | ↳ | Display Systems Engineer Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661677?utm_source=Simplify&ref=Simplify) | Oct 22, 2026 |
-| Texas Instruments | Software Engineer Intern | Toronto, ON | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757) | Oct 22, 2026 |
-| Qualcomm | AI and DSP Applications Engineer Intern (Summer 2027) | Markham, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721686396) | Oct 22, 2026 |
+| ↳ | AI and DSP Applications Engineer Intern (Summer 2027) | Markham, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721686396) | Oct 22, 2026 |
 | 1Password | Developer Intern, Vault Team (Winter 2027) | Remote, Canada | [Apply](https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/) | Oct 22, 2026 |
 | ↳ | Developer Intern, Provisioning (Winter 2027) | Remote, Canada | [Apply](https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/) | Oct 22, 2026 |
 | ↳ | Developer Intern, Machine Identity (Winter 2027) | Remote, Canada | [Apply](https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/) | Oct 22, 2026 |
@@ -78,7 +85,6 @@ Last updated: Oct 29, 2026, 10:21 AM UTC.
 | Ciena | Software Developer Intern (Winter 2027) | Ottawa, ON | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1) | Oct 22, 2026 |
 | Intel | Compiler Engineering Intern | Toronto, ON | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933) | Oct 22, 2026 |
 | CIBC | Machine Learning Engineer Co-op (Winter 2027) | Toronto, ON | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1) | Oct 22, 2026 |
-| Altera | Software Intern | Toronto, ON | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373) | Oct 22, 2026 |
 | Veeda AI | Software Engineering Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/fr?s=y) | Oct 22, 2026 |
 | Thales | Tools and Process Development Intern | Montreal, Canada | [Apply](https://go.vansh.nyc/hj?s=y) | Oct 22, 2026 |
 | SOTI | Associate Product Manager Intern | Mississauga, Canada | [Apply](https://go.vansh.nyc/hi?s=y) | Oct 22, 2026 |
@@ -95,7 +101,6 @@ Last updated: Oct 29, 2026, 10:21 AM UTC.
 | ↳ | Linux Engineering Intern | Kanata, Canada | [Apply](https://go.vansh.nyc/eM?s=y) | Oct 22, 2026 |
 | ↳ | Linux Intern | Kanata, Canada | [Apply](https://go.vansh.nyc/eN?s=y) | Oct 22, 2026 |
 | Altera | IP Design Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/hw?s=y) | Oct 22, 2026 |
-| Steel | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true&utm_source=Simplify&ref=Simplify) | Oct 21, 2026 |
 | CIBC | Product Analyst Co-op (Winter 2027) | Toronto, ON | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541) | Oct 21, 2026 |
 | Qualcomm | Camera Design Implementation Intern | Markham, ON, Canada | [Apply](https://go.vansh.nyc/ek?s=y) | Oct 21, 2026 |
 | ↳ | Applied AI Engineer Intern | Markham, ON, Canada | [Apply](https://go.vansh.nyc/el?s=y) | Oct 21, 2026 |
@@ -103,6 +108,7 @@ Last updated: Oct 29, 2026, 10:21 AM UTC.
 | ↳ | Edge AI and Display Hardware Architecture Intern | Markham, ON, Canada | [Apply](https://go.vansh.nyc/dY?s=y) | Oct 21, 2026 |
 | Aptiv | HVP/Certification Engineer Intern | Kanata, Canada | [Apply](https://go.vansh.nyc/f8?s=y) | Oct 21, 2026 |
 | ↳ | HVP Certification Engineer Intern | Kanata, Canada | [Apply](https://go.vansh.nyc/fa?s=y) | Oct 21, 2026 |
+| Steel | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true&utm_source=Simplify&ref=Simplify) | Oct 20, 2026 |
 | Qualcomm | Machine Learning AISW Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636765?utm_source=Simplify&ref=Simplify) | Oct 20, 2026 |
 | ↳ | QDSP Hardware Physical Design Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636316?utm_source=Simplify&ref=Simplify) | Oct 20, 2026 |
 | Steel | Software Engineer Intern (Summer 2027) | Toronto, ON | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/) | Oct 20, 2026 |
@@ -352,6 +358,7 @@ Last updated: Oct 29, 2026, 10:21 AM UTC.
 | ↳ | Software Engineer Intern, Fullstack | Toronto, Canada | [Apply](https://go.vansh.nyc/Qq?s=y) | Sep 11, 2026 |
 | Amazon | Machine Learning Systems Software Development Engineer Intern, Annapurna Labs | Toronto, Canada | [Apply](https://go.vansh.nyc/MP?s=y) | Sep 11, 2026 |
 | Geotab | Embedded Developer Intern - Engine Data Reliability | Oakville, ON | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008) | Sep 10, 2026 |
+| Intel | AI and Compiler Engineering Graduate Intern | Remote, Canada | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850) | Sep 9, 2026 |
 | Grass Valley | Software Development Intern | Montreal, QC | [Apply](https://grassvalley.applytojob.com/apply/r0V942NWEh/Stagiaire-Dveloppement-De-Logiciel-C-Intern-Software-Development-C) | Sep 9, 2026 |
 | Pomerleau | GIS Data Analyst Intern | Montreal, QC | [Apply](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3695) | Sep 9, 2026 |
 | D2L | Business Insights &amp; Analytics Co-op | Kitchener, ON | [Apply](https://www.d2l.com/careers/jobs/?job_id=8188363&gh_jid=8188363) | Sep 9, 2026 |
