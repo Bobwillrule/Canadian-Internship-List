@@ -4,7 +4,7 @@ A regularly updated GitHub list of Canadian tech internships and co-op roles for
 
 Browse Winter, Summer, and Fall 2027 opportunities in Toronto, Montreal, Vancouver, Ottawa, Waterloo, and other Canadian cities, plus remote internships open to applicants in Canada. Listings link to application pages and are sorted by posting date, newest first.
 
-Last updated: Nov 14, 2026, 3:46 AM UTC.
+Last updated: Nov 14, 2026, 10:59 AM UTC.
 
 ## 2027 Canadian internship listings
 
@@ -13,9 +13,11 @@ Last updated: Nov 14, 2026, 3:46 AM UTC.
 | W.W. Grainger | GCAN Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Nov 14, 2026 |
 | ↳ | Customer Experience Intern | Thornhill, Vaughan, ON, Canada | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Nov 14, 2026 |
 | Apple | Apple Music Intern | Toronto, Canada | [Apply](https://jobs.apple.com/en-us/details/200694171-3965/apple-music-intern?team=STDNT) | Nov 13, 2026 |
-| Capital Power | Student Intern - Data Science | Edmonton, AB, Canada | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1?utm_source=Simplify&ref=Simplify) | Nov 12, 2026 |
-| ↳ | Summer Student Intern - Data Analytics | Calgary, AB, Canada | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222?utm_source=Simplify&ref=Simplify) | Nov 12, 2026 |
+| Capital Power | Summer Student Intern - Data Analytics | Calgary, AB, Canada | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222?utm_source=Simplify&ref=Simplify) | Nov 12, 2026 |
 | Analog Devices | Product Engineer Intern - Product Development | Ottawa, ON, Canada | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Product-Engineering--Prod-Dev--Intern_R267447?utm_source=Simplify&ref=Simplify) | Nov 12, 2026 |
+| Huawei | Researcher Intern, Embodied AI | Edmonton, AB | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3) | Nov 12, 2026 |
+| Capital Power | Student Intern, Data Science (Summer 2027) | Edmonton, AB | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1) | Nov 12, 2026 |
+| Bank of Montreal | AI Developer Co-op Intern (Winter 2027) | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323) | Nov 12, 2026 |
 | Fonds de solidarité FTQ | Business Intelligence and M365 Solutions Intern | Montreal, Canada | [Apply](https://go.vansh.nyc/1yJ?s=y) | Nov 12, 2026 |
 | exacare ai | Data and Analytics Intern (Summer 2027) | Toronto, ON | [Apply](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) | Nov 11, 2026 |
 | Ciena | AI/ML Layout Engineering Intern (Winter 2027) | Ottawa, ON | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102) | Nov 11, 2026 |
