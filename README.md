@@ -4,7 +4,7 @@ A regularly updated GitHub list of Canadian tech internships and co-op roles for
 
 Browse Winter, Summer, and Fall 2027 opportunities in Toronto, Montreal, Vancouver, Ottawa, Waterloo, and other Canadian cities, plus remote internships open to applicants in Canada. Listings link to application pages and are sorted by posting date, newest first.
 
-Last updated: Nov 16, 2026, 3:03 AM UTC.
+Last updated: Nov 16, 2026, 12:03 PM UTC.
 
 ## 2027 Canadian internship listings
 
@@ -50,8 +50,7 @@ Last updated: Nov 16, 2026, 3:03 AM UTC.
 | Bank of Montreal | Quantitative Analyst Co-op Intern (Summer 2027) | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) | Nov 6, 2026 |
 | Qualcomm | Digital Design Engineer Intern, Interim Engineering Systems | Toronto, Canada | [Apply](https://go.vansh.nyc/1lI?s=y) | Nov 6, 2026 |
 | ↳ | Software Validation Engineering Intern | Markham, Canada | [Apply](https://go.vansh.nyc/1kR?s=y) | Nov 6, 2026 |
-| PETRONAS Canada | Student Intern, Infrastructure Automation and Innovation | Calgary, Canada | [Apply](https://go.vansh.nyc/1lK?s=y) | Nov 6, 2026 |
-| Qualcomm | Display IP FPGA Emulation Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721972361?utm_source=Simplify&ref=Simplify) | Nov 5, 2026 |
+| ↳ | Display IP FPGA Emulation Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721972361?utm_source=Simplify&ref=Simplify) | Nov 5, 2026 |
 | ↳ | Machine Learning Engineering Intern (Summer 2027) | Markham, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721969461) | Nov 5, 2026 |
 | Acumatica | Developer Intern (Winter 2027) | Montreal, QC | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000159911799) | Nov 5, 2026 |
 | DataVisor | Software Engineer Intern (Winter 2027) | Remote, Canada | [Apply](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/) | Nov 5, 2026 |
@@ -83,7 +82,6 @@ Last updated: Nov 16, 2026, 3:03 AM UTC.
 | Ciena | Software Developer Co-op Intern (Winter 2027) | Québec City, QC | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046) | Nov 3, 2026 |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445) | Nov 3, 2026 |
 | Royal Bank of Canada | AI Engineer Co-op, Global Equities (Summer 2027) | Toronto, ON | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2) | Nov 3, 2026 |
-| ↳ | AI Engineer Co-op, Capital Markets, Global Equities | Toronto, Canada | [Apply](https://go.vansh.nyc/1fV?s=y) | Nov 3, 2026 |
 | Meta | Research Scientist Intern | Montreal, QC | [Apply](https://www.metacareers.com/jobs/1406585275871250) | Nov 2, 2026 |
 | Qualcomm | Deep Learning Research Intern (Summer 2027) | Markham, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913898) | Nov 2, 2026 |
 | Zimmer Biomet Holdings | Software Developer Co-op (Spring 2027) | Montreal, QC | [Apply](https://careers.zimmerbiomet.com/us/en/job/13309) | Nov 2, 2026 |
@@ -138,8 +136,6 @@ Last updated: Nov 16, 2026, 3:03 AM UTC.
 | CIBC | Data Analyst Co-op (Winter 2027) | Toronto, ON | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Analyst-co-op_2622122-1) | Oct 27, 2026 |
 | TMX Group | Analyst Model Validation Intern (Winter 2027) | Montreal, QC | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Intern-Analyst-Model-Validation---Winter-term_R-6603) | Oct 27, 2026 |
 | Royal Bank of Canada | Developer Intern | Calgary, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1?utm_source=Simplify&ref=Simplify) | Oct 26, 2026 |
-| ↳ | Data Engineer Intern | Calgary, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201?utm_source=Simplify&ref=Simplify) | Oct 26, 2026 |
-| ↳ | Data Engineer Intern | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1?utm_source=Simplify&ref=Simplify) | Oct 26, 2026 |
 | ↳ | Developer Intern, RBC Amplify (Summer 2027) | Toronto, ON | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114) | Oct 26, 2026 |
 | ↳ | Data Engineer Intern, RBC Amplify (Summer 2027) | Vancouver, BC | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198) | Oct 26, 2026 |
 | ↳ | Developer Intern, RBC Amplify (Summer 2027) | Vancouver, BC | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199) | Oct 26, 2026 |
