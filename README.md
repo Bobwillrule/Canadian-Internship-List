@@ -4,22 +4,18 @@ A regularly updated GitHub list of Canadian tech internships and co-op roles for
 
 Browse Winter, Summer, and Fall 2027 opportunities in Toronto, Montreal, Vancouver, Ottawa, Waterloo, and other Canadian cities, plus remote internships open to applicants in Canada. Listings link to application pages and are sorted by posting date, newest first.
 
-Last updated: Nov 19, 2026, 5:00 PM UTC.
+Last updated: Nov 19, 2026, 5:08 PM UTC.
 
 ## 2027 Canadian internship listings
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
-| Qualcomm | GPU Compiler Development Intern - Interim Engineering Intern - HW | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722198182?utm_source=Simplify&ref=Simplify) | Nov 19, 2026 |
-| Roblox | Software Engineer Intern - Engine | Vancouver, BC, Canada | [Apply](https://careers.roblox.com/jobs/8386080?gh_jid=8386080&utm_source=Simplify&ref=Simplify) | Nov 19, 2026 |
-| Microsoft | Research Intern - Model Foundations for Knowledge &amp; Reasoning - Microsoft Research | Canada, British Columbia, Vancouver | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557075474?hl=en) | Nov 18, 2026 |
-| Qualcomm | AI/Machine Learning Intern - Interim Engineering Intern - SW | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722176432?utm_source=Simplify&ref=Simplify) | Nov 18, 2026 |
+| Microsoft | 🔥 Research Intern - Model Foundations for Knowledge &amp; Reasoning - Microsoft Research | Canada, British Columbia, Vancouver | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557075474?hl=en) | Nov 18, 2026 |
 | Workstream | Full Stack Engineer Intern | Vancouver, Canada | [Apply](https://go.vansh.nyc/1CE?s=y) | Nov 18, 2026 |
 | Scotiabank | Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets | Toronto, Canada | [Apply](https://go.vansh.nyc/1Ch?s=y) | Nov 18, 2026 |
-| Roblox | Software Engineer Intern, Engine | Vancouver, Canada | [Apply](https://go.vansh.nyc/1Cn?s=y) | Nov 18, 2026 |
+| Roblox | 🔥 Software Engineer Intern, Engine | Vancouver, Canada | [Apply](https://go.vansh.nyc/1Cn?s=y) | Nov 18, 2026 |
 | Qualcomm | GPU Compiler Development Intern, HW | Markham, Canada | [Apply](https://go.vansh.nyc/1Cy?s=y) | Nov 18, 2026 |
 | Angel Host | AI Product Engineer Intern Co-op | Montreal, QC | [Apply](https://angelhost.bamboohr.com/careers/123/) | Nov 17, 2026 |
-| Birdseye Security Solutions | Software Developer Intern | Mississauga, ON | [Apply](https://birdseyeaccount.bamboohr.com/careers/286/) | Nov 17, 2026 |
 | Xradar | Software Engineer Co-op (Winter 2027) | Burnaby, BC | [Apply](https://xradar.bamboohr.com/careers/203/) | Nov 17, 2026 |
 | Qualcomm | AI/Machine Learning Intern | Markham, Canada | [Apply](https://go.vansh.nyc/1Bt?s=y) | Nov 17, 2026 |
 | Shopify | 🔥 Software Engineer Intern | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a?utm_source=Simplify&ref=Simplify) | Nov 16, 2026 |
