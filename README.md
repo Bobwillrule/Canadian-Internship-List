@@ -4,16 +4,17 @@ A regularly updated GitHub list of Canadian tech internships and co-op roles for
 
 Browse Winter, Summer, and Fall 2027 opportunities in Toronto, Montreal, Vancouver, Ottawa, Waterloo, and other Canadian cities, plus remote internships open to applicants in Canada. Listings link to application pages and are sorted by posting date, newest first.
 
-Last updated: Nov 21, 2026, 4:14 AM UTC.
+Last updated: Nov 21, 2026, 9:01 PM UTC.
 
 ## 2027 Canadian internship listings
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
 | Pason Systems | Software Developer Intern - Datahub | Calgary, AB, Canada | [Apply](https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8&utm_source=Simplify&ref=Simplify) | Nov 21, 2026 |
-| Method | Product Management Intern | Remote in Canada | [Apply](https://job-boards.greenhouse.io/method/jobs/8207585003?utm_source=Simplify&ref=Simplify) | Nov 21, 2026 |
+| Method | Product Management Intern | Remote in Canada | [Apply](https://job-boards.greenhouse.io/method/jobs/8207585003?utm_source=Simplify&ref=Simplify) | Nov 20, 2026 |
 | Meridian Credit Union | Data and Artificial Intelligence Student Intern | Etobicoke, Canada St. Catharines, Canada | [Apply](https://go.vansh.nyc/1Fg?s=y) | Nov 20, 2026 |
 | Celestica | Salesforce Developer 1 Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/1FT?s=y) | Nov 20, 2026 |
+| Canadian Solar | Data Engineering Intern | Kitchener, Canada | [Apply](https://go.vansh.nyc/1G8?s=y) | Nov 20, 2026 |
 | Georgian Partners Growth | Physical AI and Robotics Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true&utm_source=Simplify&ref=Simplify) | Nov 19, 2026 |
 | Horizon Trading Solutions | Java Developer Intern | Montreal, Canada | [Apply](https://go.vansh.nyc/1Dt?s=y) | Nov 19, 2026 |
 | Altera | FPGA Software Engineer Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/1Et?s=y) | Nov 19, 2026 |
@@ -21,12 +22,12 @@ Last updated: Nov 21, 2026, 4:14 AM UTC.
 | Scotiabank | Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets | Toronto, Canada | [Apply](https://go.vansh.nyc/1Ch?s=y) | Nov 18, 2026 |
 | Roblox | 🔥 Software Engineer Intern, Engine | Vancouver, Canada | [Apply](https://go.vansh.nyc/1Cn?s=y) | Nov 18, 2026 |
 | Qualcomm | GPU Compiler Development Intern, HW | Markham, Canada | [Apply](https://go.vansh.nyc/1Cy?s=y) | Nov 18, 2026 |
-| Shopify | 🔥 Software Engineer Intern | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a?utm_source=Simplify&ref=Simplify) | Nov 17, 2026 |
-| ↳ | 🔥 Data Intern | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95?utm_source=Simplify&ref=Simplify) | Nov 17, 2026 |
-| ↳ | 🔥 Applied Machine Learning Engineer Intern | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536?utm_source=Simplify&ref=Simplify) | Nov 17, 2026 |
 | Angel Host | AI Product Engineer Intern Co-op | Montreal, QC | [Apply](https://angelhost.bamboohr.com/careers/123/) | Nov 17, 2026 |
 | Xradar | Software Engineer Co-op (Winter 2027) | Burnaby, BC | [Apply](https://xradar.bamboohr.com/careers/203/) | Nov 17, 2026 |
 | Qualcomm | AI/Machine Learning Intern | Markham, Canada | [Apply](https://go.vansh.nyc/1Bt?s=y) | Nov 17, 2026 |
+| Shopify | 🔥 Software Engineer Intern | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a?utm_source=Simplify&ref=Simplify) | Nov 16, 2026 |
+| ↳ | 🔥 Data Intern | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95?utm_source=Simplify&ref=Simplify) | Nov 16, 2026 |
+| ↳ | 🔥 Applied Machine Learning Engineer Intern | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536?utm_source=Simplify&ref=Simplify) | Nov 16, 2026 |
 | Zurich Insurance | Data Analytics &amp; AI Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/1AD?s=y) | Nov 16, 2026 |
 | Birdseye Security Solutions | AI Systems Intern | Mississauga, Canada | [Apply](https://go.vansh.nyc/1AX?s=y) | Nov 16, 2026 |
 | ↳ | Computer Vision Intern | Mississauga, Canada | [Apply](https://go.vansh.nyc/1AY?s=y) | Nov 16, 2026 |
@@ -51,7 +52,7 @@ Last updated: Nov 21, 2026, 4:14 AM UTC.
 | Altera | Software Engineer Intern | Toronto, ON | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414) | Nov 9, 2026 |
 | Qualcomm | Firmware Engineering Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/1pw?s=y) | Nov 9, 2026 |
 | Altera | FPGA Design Verification Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/1p3?s=y) | Nov 9, 2026 |
-| Qualcomm | RF/Analog Verification Engineer Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722001120?utm_source=Simplify&ref=Simplify) | Nov 7, 2026 |
+| Qualcomm | RF/Analog Verification Engineer Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722001120?utm_source=Simplify&ref=Simplify) | Nov 6, 2026 |
 | OLG | Analytics Engineering &amp; Measurement Student Intern (Winter 2027) | Toronto, ON / Sault Ste. Marie, ON | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Analytics-Engineering---Measurement-Student_R26_00700) | Nov 6, 2026 |
 | DataRobot | Software Design Engineer Intern | Remote, Canada | [Apply](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) | Nov 6, 2026 |
 | PETRONAS Canada | Technical Assurance and Pipeline Engineering (Summer 2027) | Calgary, AB | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Technical-Assurance-and-Pipeline-Engineering_R0001879) | Nov 6, 2026 |
@@ -358,8 +359,6 @@ Last updated: Nov 21, 2026, 4:14 AM UTC.
 | Steel | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true&utm_source=Simplify&ref=Simplify) | — |
 | Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721615591?utm_source=Simplify&ref=Simplify) | — |
 | Databricks | 🔥 Software Engineer Intern | Vancouver, BC, Canada | [Apply](https://boards.greenhouse.io/embed/job_app?token=6865687002&utm_source=Simplify&ref=Simplify) | — |
-| Electronic Arts | Software Engineer Co-op | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231?utm_source=Simplify&ref=Simplify) | — |
-| ↳ | Gameplay Software Engineer Co-op | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230?utm_source=Simplify&ref=Simplify) | — |
 | Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply?utm_source=Simplify&ref=Simplify) | — |
 | Qualcomm | QDSP Hardware Physical Design Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636316?utm_source=Simplify&ref=Simplify) | — |
 | Hitachi Energy | Electrical Component Engineer Intern | Toronto, ON, Canada | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359?utm_source=Simplify&ref=Simplify) | — |
