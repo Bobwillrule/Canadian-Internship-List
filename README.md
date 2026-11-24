@@ -4,7 +4,7 @@ A regularly updated GitHub list of Canadian tech internships and co-op roles for
 
 Browse Winter, Summer, and Fall 2027 opportunities in Toronto, Montreal, Vancouver, Ottawa, Waterloo, and other Canadian cities, plus remote internships open to applicants in Canada. Listings link to application pages and are sorted by posting date, newest first.
 
-Last updated: Nov 24, 2026, 2:33 AM UTC.
+Last updated: Nov 24, 2026, 2:08 PM UTC.
 
 ## 2027 Canadian internship listings
 
@@ -82,7 +82,7 @@ Last updated: Nov 24, 2026, 2:33 AM UTC.
 | Tecsys | Developer Intern | Montreal, Canada | [Apply](https://go.vansh.nyc/19b?s=y) | Nov 2, 2026 |
 | Qualcomm | Verification Engineer Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/1bu?s=y) | Nov 2, 2026 |
 | ↳ | SoC Engineering Intern | Markham, Canada | [Apply](https://go.vansh.nyc/1a0?s=y) | Nov 2, 2026 |
-| ↳ | Soft IP Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862542?utm_source=Simplify&ref=Simplify) | Oct 31, 2026 |
+| ↳ | Soft IP Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862542?utm_source=Simplify&ref=Simplify) | Oct 30, 2026 |
 | Stripe | PhD Machine Learning Engineer Intern (Summer 2027) | Toronto, ON | [Apply](https://stripe.com/jobs/search?gh_jid=8328664) | Oct 30, 2026 |
 | ↳ | 🔥 Machine Learning Engineer Intern (Summer 2027) | Toronto, ON | [Apply](https://stripe.com/jobs/search?gh_jid=8333122) | Oct 30, 2026 |
 | TobogganLabs | Data Science Intern | Montreal, Canada | [Apply](https://go.vansh.nyc/13r?s=y) | Oct 30, 2026 |
@@ -189,7 +189,6 @@ Last updated: Nov 24, 2026, 2:33 AM UTC.
 | ↳ | Software Developer Intern, SOTI MobiControl Apple HQ | Mississauga, ON | [Apply](https://go.vansh.nyc/8O?s=y) | Oct 13, 2026 |
 | Manulife Financial | Software Engineer Intern | Waterloo, Canada | [Apply](https://go.vansh.nyc/Ci?s=y) | Oct 13, 2026 |
 | ↳ | Software Engineer Intern, Software Engineering | Waterloo, Canada | [Apply](https://go.vansh.nyc/Cj?s=y) | Oct 13, 2026 |
-| Electronic Arts | Technical Artist Co-op | Vancouver, Canada | [Apply](https://go.vansh.nyc/Cb?s=y) | Oct 13, 2026 |
 | Aptiv | Cloud Engineering Intern | CAN Kanata, ON | [Apply](https://go.vansh.nyc/8q?s=y) | Oct 13, 2026 |
 | ↳ | Cloud Engineer Intern | CAN Kanata, ON | [Apply](https://go.vansh.nyc/8r?s=y) | Oct 13, 2026 |
 | ↳ | Cloud Engineer Intern | CAN Kanata, ON | [Apply](https://go.vansh.nyc/8s?s=y) | Oct 13, 2026 |
@@ -206,9 +205,7 @@ Last updated: Nov 24, 2026, 2:33 AM UTC.
 | ↳ | Engineering Intern | Kanata, ON | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704361) | Oct 12, 2026 |
 | ↳ | Engineer Intern | Kanata, ON | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704362) | Oct 12, 2026 |
 | Magnet Forensics | Software Developer Co-op (Winter 2027) | Waterloo, ON / Ottawa, ON | [Apply](https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/) | Oct 10, 2026 |
-| Electronic Arts | Software Engineer Intern, C++ | Vancouver, Canada | [Apply](https://go.vansh.nyc/Gy?s=y) | Oct 9, 2026 |
-| ↳ | Gameplay Software Engineer Co-op | Vancouver, Canada | [Apply](https://go.vansh.nyc/Gz?s=y) | Oct 9, 2026 |
-| ↳ | Software Engineer Co-op | Vancouver, Canada | [Apply](https://go.vansh.nyc/GA?s=y) | Oct 9, 2026 |
+| Electronic Arts | Gameplay Software Engineer Co-op | Vancouver, Canada | [Apply](https://go.vansh.nyc/Gz?s=y) | Oct 9, 2026 |
 | Equitable Bank | Software Engineer Intern (Winter 2027) | Toronto, ON | [Apply](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/) | Oct 8, 2026 |
 | Tenstorrent | AI Software Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/1nu?s=y) | Oct 8, 2026 |
 | Astera Labs | Platform Applications Engineer Intern Co-op | Vancouver, BC | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005) | Oct 6, 2026 |
