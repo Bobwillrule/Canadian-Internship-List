@@ -4,16 +4,19 @@ A regularly updated GitHub list of Canadian tech internships and co-op roles for
 
 Browse Winter, Summer, and Fall 2027 opportunities in Toronto, Montreal, Vancouver, Ottawa, Waterloo, and other Canadian cities, plus remote internships open to applicants in Canada. Listings link to application pages and are sorted by posting date, newest first.
 
-Last updated: Nov 25, 2026, 1:21 PM UTC.
+Last updated: Nov 25, 2026, 11:47 PM UTC.
 
 ## 2027 Canadian internship listings
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Saputo | Data Engineer Intern, Enterprise Analytics | Mississauga, Canada | [Apply](https://go.vansh.nyc/1Jd?s=y) | Nov 25, 2026 |
+| Celestica | Engineering Data Analytics Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/1Jm?s=y) | Nov 25, 2026 |
+| ↳ | Engineering AI Development Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/1Jn?s=y) | Nov 25, 2026 |
 | Altera | AI Software Development Engineer Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/1Ih?s=y) | Nov 24, 2026 |
 | ↳ | Embedded Solutions Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/1Ii?s=y) | Nov 24, 2026 |
 | Pason Systems | Software Developer Intern - Datahub | Calgary, AB, Canada | [Apply](https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8&utm_source=Simplify&ref=Simplify) | Nov 21, 2026 |
-| Method | Product Management Intern | Remote in Canada | [Apply](https://job-boards.greenhouse.io/method/jobs/8207585003?utm_source=Simplify&ref=Simplify) | Nov 21, 2026 |
+| Method | Product Management Intern | Remote in Canada | [Apply](https://job-boards.greenhouse.io/method/jobs/8207585003?utm_source=Simplify&ref=Simplify) | Nov 20, 2026 |
 | Meridian Credit Union | Data and Artificial Intelligence Student Intern | Etobicoke, Canada St. Catharines, Canada | [Apply](https://go.vansh.nyc/1Fg?s=y) | Nov 20, 2026 |
 | Celestica | Salesforce Developer 1 Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/1FT?s=y) | Nov 20, 2026 |
 | Canadian Solar | Data Engineering Intern | Kitchener, Canada | [Apply](https://go.vansh.nyc/1G8?s=y) | Nov 20, 2026 |
@@ -25,17 +28,15 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | Scotiabank | Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets | Toronto, Canada | [Apply](https://go.vansh.nyc/1Ch?s=y) | Nov 18, 2026 |
 | Roblox | 🔥 Software Engineer Intern, Engine | Vancouver, Canada | [Apply](https://go.vansh.nyc/1Cn?s=y) | Nov 18, 2026 |
 | Qualcomm | GPU Compiler Development Intern, HW | Markham, Canada | [Apply](https://go.vansh.nyc/1Cy?s=y) | Nov 18, 2026 |
-| Shopify | 🔥 Software Engineer Intern | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a?utm_source=Simplify&ref=Simplify) | Nov 17, 2026 |
-| ↳ | 🔥 Data Intern | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95?utm_source=Simplify&ref=Simplify) | Nov 17, 2026 |
-| ↳ | 🔥 Applied Machine Learning Engineer Intern | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536?utm_source=Simplify&ref=Simplify) | Nov 17, 2026 |
 | Meta | Visiting Researcher, AI Mentorship Program (PhD) (Fall 2027) | Montreal, QC | [Apply](https://www.metacareers.com/jobs/1110284504699535) | Nov 17, 2026 |
 | Ross Video | Research Assistant Co-op, AI Focus (Winter 2027) | Nepean, ON | [Apply](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) | Nov 17, 2026 |
 | QSL | Software Development and Artificial Intelligence Intern (Winter 2027) | Québec City, QC | [Apply](https://jobs.smartrecruiters.com/QSL/744000162086264) | Nov 17, 2026 |
 | Critical Environment Technologies | Computer Science Co-op | Delta, BC | [Apply](https://cetci.bamboohr.com/careers/92/) | Nov 17, 2026 |
 | NorthStar Earth &amp; Space | Research Intern, AI for Earth Observation (Winter 2028) | Montreal, QC | [Apply](https://northstarearthandspace.bamboohr.com/careers/117/) | Nov 17, 2026 |
-| Angel Host | AI Product Engineer Intern Co-op | Montreal, QC | [Apply](https://angelhost.bamboohr.com/careers/123/) | Nov 17, 2026 |
-| Xradar | Software Engineer Co-op (Winter 2027) | Burnaby, BC | [Apply](https://xradar.bamboohr.com/careers/203/) | Nov 17, 2026 |
 | Qualcomm | AI/Machine Learning Intern | Markham, Canada | [Apply](https://go.vansh.nyc/1Bt?s=y) | Nov 17, 2026 |
+| Shopify | 🔥 Software Engineer Intern | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a?utm_source=Simplify&ref=Simplify) | Nov 16, 2026 |
+| ↳ | 🔥 Data Intern | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95?utm_source=Simplify&ref=Simplify) | Nov 16, 2026 |
+| ↳ | 🔥 Applied Machine Learning Engineer Intern | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536?utm_source=Simplify&ref=Simplify) | Nov 16, 2026 |
 | Zurich Insurance | Data Analytics &amp; AI Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/1AD?s=y) | Nov 16, 2026 |
 | Birdseye Security Solutions | AI Systems Intern | Mississauga, Canada | [Apply](https://go.vansh.nyc/1AX?s=y) | Nov 16, 2026 |
 | ↳ | Computer Vision Intern | Mississauga, Canada | [Apply](https://go.vansh.nyc/1AY?s=y) | Nov 16, 2026 |
@@ -46,7 +47,6 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | Huawei | Researcher Intern, Embodied AI | Edmonton, AB | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3) | Nov 12, 2026 |
 | Capital Power | Student Intern, Data Science (Summer 2027) | Edmonton, AB | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1) | Nov 12, 2026 |
 | Bank of Montreal | AI Developer Co-op Intern (Winter 2027) | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323) | Nov 12, 2026 |
-| exacare ai | Data and Analytics Intern (Summer 2027) | Toronto, ON | [Apply](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) | Nov 11, 2026 |
 | Ciena | AI/ML Layout Engineering Intern (Winter 2027) | Ottawa, ON | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102) | Nov 11, 2026 |
 | Synopsys | Engineering Documentation and AI Automation Co-op | Nepean, Canada | [Apply](https://go.vansh.nyc/1uz?s=y) | Nov 11, 2026 |
 | SOTI | Software Developer Intern (Summer 2027) | Mississauga, ON | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677) | Nov 10, 2026 |
@@ -59,7 +59,7 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | Altera | Software Engineer Intern | Toronto, ON | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414) | Nov 9, 2026 |
 | Qualcomm | Firmware Engineering Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/1pw?s=y) | Nov 9, 2026 |
 | Altera | FPGA Design Verification Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/1p3?s=y) | Nov 9, 2026 |
-| Qualcomm | RF/Analog Verification Engineer Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722001120?utm_source=Simplify&ref=Simplify) | Nov 7, 2026 |
+| Qualcomm | RF/Analog Verification Engineer Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722001120?utm_source=Simplify&ref=Simplify) | Nov 6, 2026 |
 | OLG | Analytics Engineering &amp; Measurement Student Intern (Winter 2027) | Toronto, ON / Sault Ste. Marie, ON | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Analytics-Engineering---Measurement-Student_R26_00700) | Nov 6, 2026 |
 | DataRobot | Software Design Engineer Intern | Remote, Canada | [Apply](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) | Nov 6, 2026 |
 | PETRONAS Canada | Technical Assurance and Pipeline Engineering (Summer 2027) | Calgary, AB | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Technical-Assurance-and-Pipeline-Engineering_R0001879) | Nov 6, 2026 |
@@ -81,8 +81,6 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | Q-Block Computing | Embedded Systems Developer Intern | Ottawa, Canada | [Apply](https://go.vansh.nyc/1Bd?s=y) | Nov 4, 2026 |
 | Global Relay | Java Developer Co-op (Winter 2027) | Halifax, NS | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241594004) | Nov 3, 2026 |
 | ↳ | Java Developer Co-op (Winter 2027) | Vancouver, BC | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241593004) | Nov 3, 2026 |
-| Botpress Technologies | Software Development Intern (Winter 2027) | Montreal, QC | [Apply](https://apply.workable.com/botpress/j/16C68A50A7/) | Nov 3, 2026 |
-| ↳ | Software Developer Intern (Winter 2027) | Montreal, QC | [Apply](https://apply.workable.com/botpress/j/9B3CB646E8/) | Nov 3, 2026 |
 | Ciena | Software Developer Co-op Intern (Winter 2027) | Québec City, QC | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046) | Nov 3, 2026 |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445) | Nov 3, 2026 |
 | Royal Bank of Canada | 🔥 AI Engineer Co-op, Global Equities (Summer 2027) | Toronto, ON | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2) | Nov 3, 2026 |
@@ -97,9 +95,7 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | TobogganLabs | Data Science Intern | Montreal, Canada | [Apply](https://go.vansh.nyc/13r?s=y) | Oct 30, 2026 |
 | Qualcomm | Camera Systems Intern | Vancouver, Canada | [Apply](https://go.vansh.nyc/11v?s=y) | Oct 30, 2026 |
 | ↳ | Camera HW ASIC Verification Intern | Vancouver, Canada | [Apply](https://go.vansh.nyc/11z?s=y) | Oct 30, 2026 |
-| Waterworth | Computer Science Co-op (Winter 2027) | Victoria, BC | [Apply](https://apply.workable.com/waterworth/j/D450C48C96/) | Oct 29, 2026 |
-| Qualcomm | Deep Learning Research Intern (Summer 2027) | Markham, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721858024) | Oct 29, 2026 |
-| Ciena | Embedded Software Engineer Co-op (Winter 2027) | Ottawa, ON | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005) | Oct 29, 2026 |
+| ↳ | Deep Learning Research Intern (Summer 2027) | Markham, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721858024) | Oct 29, 2026 |
 | SOTI | Software Developer Intern (Summer 2027) | Mississauga, ON | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611) | Oct 29, 2026 |
 | TMX Group | Analyst, Market Insights Intern (Winter 2027) | Toronto, ON | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Student-Intern---Analyst--Market-Insights--WinterTerm-_R-6586) | Oct 29, 2026 |
 | Synopsys | Technical Engineer Intern | Ottawa, Canada | [Apply](https://go.vansh.nyc/10b?s=y) | Oct 29, 2026 |
@@ -115,10 +111,7 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | Bank of Montreal | Quantitative Trading Analyst Co-op | Toronto, Canada | [Apply](https://go.vansh.nyc/Z0?s=y) | Oct 28, 2026 |
 | Astera Labs | Firmware Engineer Co-op | Vancouver, Canada | [Apply](https://go.vansh.nyc/1uX?s=y) | Oct 28, 2026 |
 | Lumerate | Data Associate Intern (Winter 2027) | Remote, Canada | [Apply](https://lumerate.breezy.hr/p/baf2283496ad-data-associate-winter-spring-2027) | Oct 27, 2026 |
-| Hitachi | Software Analyst Intern (Winter 2027) | Toronto, ON | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) | Oct 27, 2026 |
 | AtkinsRéalis | Business Intelligence Intern, Digital (Summer 2027) | Montreal, QC | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) | Oct 26, 2026 |
-| CIBC | AI Scientist Co-op (Winter 2027) | Toronto, ON | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1) | Oct 26, 2026 |
-| ↳ | Business Analyst Co-op (Winter 2027) | Toronto, ON | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Analyst-co-op_2622052-1) | Oct 26, 2026 |
 | Uber | 🔥 Software Engineering Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/Wx?s=y) | Oct 26, 2026 |
 | SOTI | Software Developer Intern, Android | Mississauga, Canada | [Apply](https://go.vansh.nyc/SI?s=y) | Oct 26, 2026 |
 | ↳ | Software Developer Intern, Server | Mississauga, Canada | [Apply](https://go.vansh.nyc/SJ?s=y) | Oct 26, 2026 |
@@ -126,7 +119,6 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | Boson Ai | MScAC Intern (Summer 2027) | Toronto, ON | [Apply](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) | Oct 23, 2026 |
 | Amazon | Applied Science Intern - PhD Student Science | Toronto, ON / Burnaby, BC / Vancouver, BC / Pitt Meadows, BC | [Apply](https://amazon.jobs/en/jobs/10564588/2027-applied-science-internship-canada-phd-student-science-recruiting) | Oct 23, 2026 |
 | Trimble | Navigation &amp; Machine Learning Engineer Intern (Summer 2027) | Richmond Hill, ON | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980) | Oct 23, 2026 |
-| ↳ | Software Engineer Intern (Summer 2027) | Richmond Hill, ON | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963) | Oct 23, 2026 |
 | Aptiv | Engineering Intern | Kanata, ON | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704366) | Oct 23, 2026 |
 | ↳ | Engineering Intern | Kanata, ON | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704367) | Oct 23, 2026 |
 | ↳ | Engineering Intern | Kanata, ON | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704357) | Oct 23, 2026 |
@@ -141,7 +133,6 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | Aptiv | Linux Engineer Intern | Kanata, ON | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371) | Oct 22, 2026 |
 | ↳ | Linux Intern | Kanata, ON | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370) | Oct 22, 2026 |
 | Intel | Compiler Engineering Intern | Toronto, ON | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933) | Oct 22, 2026 |
-| CIBC | Machine Learning Engineer Co-op (Winter 2027) | Toronto, ON | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1) | Oct 22, 2026 |
 | Veeda AI | Software Engineering Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/fr?s=y) | Oct 22, 2026 |
 | Thales | Tools and Process Development Intern | Montreal, Canada | [Apply](https://go.vansh.nyc/hj?s=y) | Oct 22, 2026 |
 | SOTI | Associate Product Manager Intern | Mississauga, Canada | [Apply](https://go.vansh.nyc/hi?s=y) | Oct 22, 2026 |
@@ -162,8 +153,6 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | ↳ | HVP Certification Engineer Intern | Kanata, Canada | [Apply](https://go.vansh.nyc/fa?s=y) | Oct 21, 2026 |
 | SOTI | Cloud Administrator Intern | Mississauga, ON | [Apply](https://go.vansh.nyc/cI?s=y) | Oct 20, 2026 |
 | Picton Mahoney Asset Management | Data Engineer Intern | Toronto, ON, Canada | [Apply](https://go.vansh.nyc/dc?s=y) | Oct 20, 2026 |
-| Nuovo Photography | Software Developer Intern (Winter 2027) | Montreal, QC | [Apply](https://apply.workable.com/nuovophotography/j/7DE79BE9A8/) | Oct 19, 2026 |
-| Ciena | Services Business Intelligence &amp; Analytics Intern (Winter 2027) | Montreal, QC | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) | Oct 19, 2026 |
 | Qualcomm | Machine Learning AISW Intern | Markham, ON, Canada | [Apply](https://go.vansh.nyc/c8?s=y) | Oct 19, 2026 |
 | ↳ | QDSP Hardware Physical Design Intern | Markham, ON, Canada | [Apply](https://go.vansh.nyc/c9?s=y) | Oct 19, 2026 |
 | Lyft | 🔥 Software Engineer Intern, Test Automation | Montreal, Canada | [Apply](https://go.vansh.nyc/RT?s=y) | Oct 19, 2026 |
@@ -187,7 +176,6 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | Intel | Compiler Engineering Intern | Toronto, ON | [Apply](https://go.vansh.nyc/9M?s=y) | Oct 15, 2026 |
 | Microsoft | 🔥 Research Intern, Machine Learning | Montreal, QC | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557040927) | Oct 14, 2026 |
 | Tenstorrent | Systems Intern, Multiple Teams | Toronto, ON | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) | Oct 14, 2026 |
-| Profound Medical | Software Development Co-op | Mississauga, ON | [Apply](https://profoundmedical.bamboohr.com/careers/353/) | Oct 14, 2026 |
 | Astera Labs | Firmware Engineer Co-op Intern (Spring 2027) | Vancouver, BC | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005) | Oct 14, 2026 |
 | Manulife Financial | Software Engineer Intern (Summer 2027) | Waterloo, ON | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1) | Oct 14, 2026 |
 | ↳ | Software Engineer Intern (Summer 2027) | Waterloo, ON | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1) | Oct 14, 2026 |
@@ -226,8 +214,6 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | Astera Labs | Design Verification Engineer Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/Fg?s=y) | Oct 5, 2026 |
 | ↳ | Digital Design Engineer Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/Fh?s=y) | Oct 5, 2026 |
 | ↳ | Physical Design Engineer Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/Fq?s=y) | Oct 5, 2026 |
-| Mila | AI Safety Research Intern | Montreal, QC | [Apply](https://apply.workable.com/mila-2/j/1E81635604/) | Oct 2, 2026 |
-| Kinaxis | AI/ML Researcher Intern (Winter 2027) | Remote, Canada | [Apply](https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false) | Oct 2, 2026 |
 | Marvell | Firmware Engineer Intern (Winter 2027) | Ottawa, ON | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) | Oct 2, 2026 |
 | Stripe | Data Analyst Intern | Toronto, ON | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) | Oct 1, 2026 |
 | ↳ | PhD Data Scientist | Toronto, ON | [Apply](https://stripe.com/jobs/search?gh_jid=8194285) | Oct 1, 2026 |
@@ -239,7 +225,6 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | DotDash Meredith | Cloud Platform Engineering Intern | Edmonton, Canada Remote Canada | [Apply](https://go.vansh.nyc/GX?s=y) | Sep 29, 2026 |
 | Qualcomm | Soft IP ASIC Engineer Intern | Ottawa, Canada | [Apply](https://go.vansh.nyc/DS?s=y) | Sep 28, 2026 |
 | ↳ | Silicon Engineering Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/DT?s=y) | Sep 28, 2026 |
-| Moment Energy | Data Scientist Co-op (Winter 2027) | Surrey, BC | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4421775009) | Sep 26, 2026 |
 | Acuity | Firmware Development Intern | Brossard, QC | [Apply](https://careers.acuityinc.com/job/Brossard-Stage-en-d%C3%A9veloppement-micrologicielfirmware-Qu%C3%A9b-J4Y-0C4/1434107300/?ats=successfactors) | Sep 25, 2026 |
 | ↳ | Hardware Development Intern | Brossard, QC | [Apply](https://careers.acuityinc.com/job/Brossard-Stagiaire-d%C3%A9veloppement-mat%C3%A9riel-%28hardware%29-Qu%C3%A9b-J4Y-0C4/1433678100/?ats=successfactors) | Sep 24, 2026 |
 | Semtech | Firmware Design Intern (Summer 2027) | Ottawa, ON | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) | Sep 24, 2026 |
@@ -272,8 +257,6 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | ↳ | Firmware/Embedded Software Engineering Internship | Toronto, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721141411) | Sep 17, 2026 |
 | ↳ | Physical Mixed Layout Engineering Internship | Toronto, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721142985) | Sep 17, 2026 |
 | ↳ | Analog Design Intern | Toronto, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721140914) | Sep 17, 2026 |
-| 4AG Robotics | AI Co-op Student | Salmon Arm, BC | [Apply](https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7) | Sep 17, 2026 |
-| ↳ | Robotics Software Co-op | Salmon Arm, BC | [Apply](https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24) | Sep 17, 2026 |
 | Alayacare | Fullstack Developer Intern | Montreal, QC | [Apply](https://alayacare.com/open-positions?gh_jid=8811336002) | Sep 17, 2026 |
 | TRC Companies | Software Engineer Intern | Calgary, Canada | [Apply](https://go.vansh.nyc/IM?s=y) | Sep 17, 2026 |
 | Qualcomm | Physical Mixed Layout Engineer Intern, Interim Engineering HW | Toronto, Canada | [Apply](https://go.vansh.nyc/IH?s=y) | Sep 17, 2026 |
@@ -285,13 +268,9 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | ↳ | Sensors Subsystem Engineering Intern | Markham, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721109168) | Sep 15, 2026 |
 | Equitable Bank | Credit Risk Intern | Toronto, ON | [Apply](https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/) | Sep 15, 2026 |
 | ↳ | Data Scientist Intern | Toronto, ON | [Apply](https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/) | Sep 15, 2026 |
-| L3Harris Technologies | Software Engineering Co-op | Waterdown, ON | [Apply](https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1430128900/?ats=successfactors) | Sep 15, 2026 |
-| ↳ | FPGA Software Tool Developer Co-op | Waterdown, ON | [Apply](https://jobs.l3harris.com/job/Waterdown-FPGA-Software-Tool-Developer-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1430127100/?ats=successfactors) | Sep 15, 2026 |
-| ↳ | Full Stack Developer Co-op | Waterdown, ON | [Apply](https://jobs.l3harris.com/job/Niagara-on-the-Lake-Full-Stack-Developer-Co-op-1-ON/1430141300/?ats=successfactors) | Sep 15, 2026 |
+| L3Harris Technologies | Full Stack Developer Co-op | Waterdown, ON | [Apply](https://jobs.l3harris.com/job/Niagara-on-the-Lake-Full-Stack-Developer-Co-op-1-ON/1430141300/?ats=successfactors) | Sep 15, 2026 |
 | ↳ | FPGA Designer Co-op | Hamilton, ON | [Apply](https://jobs.l3harris.com/job/Waterdown-FPGA-Designer-Coop-%28Waterdown,-CAN%29-ON-L9H-0C5/1430127300/?ats=successfactors) | Sep 15, 2026 |
-| ↳ | Software Engineering Co-op | Waterdown, ON | [Apply](https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1430130200/?ats=successfactors) | Sep 15, 2026 |
 | ↳ | Software Engineer Co-op | Waterdown, ON | [Apply](https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1430129400/?ats=successfactors) | Sep 15, 2026 |
-| Nexthop.ai | Software Engineer Intern | Burnaby, BC | [Apply](https://nexthopai.bamboohr.com/careers/64/) | Sep 15, 2026 |
 | DoorDash | 🔥 Software Engineer Intern | Toronto, ON | [Apply](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944) | Sep 15, 2026 |
 | Google | Student Researcher, BS/MS | Montreal, QC | [Apply](https://www.google.com/about/careers/applications/jobs/results/104405499448828614) | Sep 14, 2026 |
 | ↳ | 🔥 Student Researcher, PhD | Toronto, ON / Waterloo, ON | [Apply](https://www.google.com/about/careers/applications/jobs/results/75043041429070534) | Sep 14, 2026 |
@@ -299,7 +278,6 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | ↳ | Retail Lending AI Engineer Intern | Toronto, ON | [Apply](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/) | Sep 14, 2026 |
 | Definity Financial | Technology Business Administration Co-op Intern | Toronto, ON / Waterloo, ON | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345) | Sep 14, 2026 |
 | Qualcomm | Machine Learning Compiler &amp; Performance Engineering Intern | Markham, ON | [Apply](https://qualcomm.eightfold.ai/careers/job/446721064018) | Sep 11, 2026 |
-| Dialogue | Full Stack Developer Intern | Montreal, QC | [Apply](https://ats.rippling.com/dialogue-en/jobs/3c2341d5-604d-463c-8b79-5d1669d81e78) | Sep 11, 2026 |
 | Amazon | 🔥 Machine Learning Systems Software Development Engineer Intern, Annapurna Labs | Toronto, ON | [Apply](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) | Sep 11, 2026 |
 | Lyft | 🔥 Software Engineer Intern, Backend | Montreal, QC | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002) | Sep 11, 2026 |
 | ↳ | Software Engineer Intern, Machine Learning | Toronto, ON | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) | Sep 11, 2026 |
@@ -320,8 +298,6 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | D2L | Business Insights &amp; Analytics Co-op | Kitchener, ON | [Apply](https://www.d2l.com/careers/jobs/?job_id=8188363&gh_jid=8188363) | Sep 9, 2026 |
 | ↳ | Software Developer Co-op | Kitchener, ON | [Apply](https://www.d2l.com/careers/jobs/?job_id=8174229&gh_jid=8174229) | Sep 9, 2026 |
 | Kinaxis | Developer Intern, AI Solutions | Ottawa, ON | [Apply](https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false) | Sep 9, 2026 |
-| Zaber Technologies | Software Developer Co-op | Vancouver, BC | [Apply](https://apply.workable.com/zaber/j/EAB5877DC3/) | Sep 8, 2026 |
-| ↳ | Embedded Software Co-op | Vancouver, BC | [Apply](https://apply.workable.com/zaber/j/1F627CC2BB/) | Sep 8, 2026 |
 | General Dynamics UK | Systems Engineering Co-op | Ottawa, ON | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147549219) | Sep 4, 2026 |
 | ↳ | Software Engineering Co-op | Cole Harbour, NS | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147583700) | Sep 4, 2026 |
 | ↳ | Software Engineering Co-op | Ottawa, ON | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147511629) | Sep 4, 2026 |
@@ -353,8 +329,7 @@ Last updated: Nov 25, 2026, 1:21 PM UTC.
 | Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721615591?utm_source=Simplify&ref=Simplify) | — |
 | Databricks | 🔥 Software Engineer Intern | Vancouver, BC, Canada | [Apply](https://boards.greenhouse.io/embed/job_app?token=6865687002&utm_source=Simplify&ref=Simplify) | — |
 | Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply?utm_source=Simplify&ref=Simplify) | — |
-| Qualcomm | Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661830?utm_source=Simplify&ref=Simplify) | — |
-| ↳ | QDSP Hardware Physical Design Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636316?utm_source=Simplify&ref=Simplify) | — |
+| Qualcomm | QDSP Hardware Physical Design Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636316?utm_source=Simplify&ref=Simplify) | — |
 | NVIDIA | ASIC Verification Intern | Toronto, ON, Canada | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982?utm_source=Simplify&ref=Simplify) | — |
 | Hitachi Energy | Electrical Component Engineer Intern | Toronto, ON, Canada | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359?utm_source=Simplify&ref=Simplify) | — |
 
